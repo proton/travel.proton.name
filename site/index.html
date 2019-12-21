@@ -1,52 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>travel map - Peter Savichev (proton)</title>
     <style>
+      #map {
+        height: 100%;
+      }
       html, body {
+        height: 100%;
         margin: 0;
         padding: 0;
       }
-      html {
-        height: 100%;
-      }
-      body {
-        width: 100%;
-        min-height: 100%;
-       }
     </style>
-    <meta charset="UTF-8">
   </head>
-  <body id="map">
-    <div></div>
-    <script>
-    
-const trips = [
-{
-  period: ['', ''],
-  places: [
-     { lat: -25.344, lng: 131.036, name: 'zzz' }
-  ]
-}
-
-];
-    
-const markers = [];
-// Initialize and add the map
-function initMap() {
-  // The location of Uluru
-  var uluru = {lat: -25.344, lng: 131.036};
-  // The map, centered at Uluru
-  var map = new google.maps.Map(
-      document.getElementById('map'); // , {zoom: 4, center: uluru})
-  // The marker, positioned at Uluru
-  var marker = new google.maps.Marker({position: uluru, map: map});
-}
-    </script>
-    <!--Load the API from the specified URL
-    * The async attribute allows the browser to render the page while the API loads
-    * The key parameter will contain your own API key (which is not needed for this tutorial)
-    * The callback parameter executes the initMap() function
-    -->
+  <body>
+    <div id="map"></div>
+    <script type="text/javascript" src="/code.js"></script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9o3OKnFwKm9J3fexgD5iUnxwXW-5GGI4&callback=initMap">
     </script>
