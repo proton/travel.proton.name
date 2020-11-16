@@ -5,21 +5,24 @@
     <meta charset="utf-8">
     <title>travel map - Peter Savichev (proton)</title>
     <style>
-      #map {
-        height: 100%;
-      }
       html, body {
-        height: 100%;
         margin: 0;
         padding: 0;
       }
+      .map {
+        width: 100vw;
+        height: 100vh;
+      }
     </style>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
   </head>
   <body>
-    <div id="map"></div>
+    <div class="map" id="map"></div>
     <script type="text/javascript" src="/code.js"></script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9o3OKnFwKm9J3fexgD5iUnxwXW-5GGI4&callback=initMap">
-    </script>
   </body>
 </html>
