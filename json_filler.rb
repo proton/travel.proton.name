@@ -11,7 +11,7 @@ tripster_files.each do |file_path|
   arr += JSON.parse(File.open(file_path).read)['cities']
 end
 
-arr.compact!
+arr.uniq! { |city| city['city_id'] }
 
 File.open(cities_path, 'w') do |file|
   file.write(JSON.pretty_generate(arr))
