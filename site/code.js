@@ -17,10 +17,12 @@ const control = {
     }).addTo(this.map);
 
     this.mapMarkerIcon = L.icon({
-      iconUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon-2x.png',
+//       iconUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon-2x.png',
+      iconUrl: '/marker.png',
       // shadowUrl: 'leaf-shadow.png',
   
-      iconSize:     [12, 16], // size of the icon
+      iconSize:     [9, 9], // size of the icon
+//       iconSize:     [12, 16], // size of the icon
       // shadowSize:   [50, 64], // size of the shadow
       // iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
       // shadowAnchor: [4, 62],  // the same for the shadow
