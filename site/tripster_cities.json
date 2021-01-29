@@ -3278,5 +3278,53 @@
     "title_ru": "Милан",
     "y": 45.46427,
     "x": 9.18951
+  },
+  {
+    "city_id": 121274,
+    "title_en": "Avanos",
+    "been_count_msg": "человек",
+    "want": false,
+    "visited": true,
+    "country_ru": "Турция",
+    "country_url": "/locations/Turkey/",
+    "country_en": "Turkey",
+    "been_count": 115,
+    "city_url": "/locations/Turkey/Avanos/",
+    "image_url": "http://farm3.staticflickr.com/2827/11680944466_5fcbb521e5_s.jpg",
+    "title_ru": "Avanos",
+    "y": 38.715,
+    "x": 34.84667
+  },
+  {
+    "city_id": 150144,
+    "title_en": "Goereme",
+    "been_count_msg": "человек",
+    "want": false,
+    "visited": true,
+    "country_ru": "Турция",
+    "country_url": "/locations/Turkey/",
+    "country_en": "Turkey",
+    "been_count": 351,
+    "city_url": "/locations/Turkey/Goereme/",
+    "image_url": "http://farm6.staticflickr.com/5497/10857089846_1a99693fcb_s.jpg",
+    "title_ru": "Гёреме",
+    "y": 38.6437,
+    "x": 34.83529
+  },
+  {
+    "city_id": 150099,
+    "title_en": "Istanbul",
+    "been_count_msg": "человек",
+    "want": false,
+    "visited": true,
+    "country_ru": "Турция",
+    "country_url": "/locations/Turkey/",
+    "country_en": "Turkey",
+    "been_count": 9548,
+    "city_url": "/locations/Turkey/Istanbul/",
+    "image_url": "",
+    "title_ru": "Стамбул",
+    "y": 41.01384,
+    "x": 28.94966
   }
 ]
