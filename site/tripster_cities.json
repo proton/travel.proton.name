@@ -3326,5 +3326,21 @@
     "title_ru": "Стамбул",
     "y": 41.01384,
     "x": 28.94966
+  },
+  {
+    "city_id": 121046,
+    "title_en": "Kayseri",
+    "been_count_msg": "человека",
+    "want": false,
+    "visited": true,
+    "country_ru": "Турция",
+    "country_url": "/locations/Turkey/",
+    "country_en": "Turkey",
+    "been_count": 154,
+    "city_url": "/locations/Turkey/Kayseri/",
+    "image_url": "",
+    "title_ru": "Кайсери",
+    "y": 38.73222,
+    "x": 35.48528
   }
 ]
