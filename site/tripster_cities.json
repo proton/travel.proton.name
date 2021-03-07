@@ -3422,5 +3422,21 @@
     "title_ru": "Иркутск",
     "y": 52.29778,
     "x": 104.29639
+  },
+  {
+    "city_id": 140684,
+    "title_en": "New York City",
+    "been_count_msg": "человека",
+    "want": false,
+    "visited": true,
+    "country_ru": "США",
+    "country_url": "/locations/United%20States/",
+    "country_en": "United States",
+    "been_count": 6604,
+    "city_url": "/locations/United%20States/New%20York%20City/",
+    "image_url": "",
+    "title_ru": "Нью-Йорк",
+    "y": 40.71427,
+    "x": -74.00597
   }
 ]
