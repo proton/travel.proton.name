@@ -9,7 +9,6 @@ on:
 env:
   GCR_PROJECT_ID: ${{ secrets.GCR_PROJECT_ID }}
   RUN_REGION: us-central1
-  SERVICE_NAME: travel-proton-name
 
 jobs:
   setup-build-publish-deploy:
@@ -31,11 +30,11 @@ jobs:
         run: |-
           gcloud builds submit \
             --quiet \
-            --tag "gcr.io/$GCR_PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA"
+            --tag "gcr.io/$GCR_PROJECT_ID/${{github.repository}}:$GITHUB_SHA"
             
       - name: Deploy
         run: |-
-          gcloud run deploy "$SERVICE_NAME" \
+          gcloud run deploy "${{github.repository}}" \
             --quiet \
             --region "$RUN_REGION" \
             --image "gcr.io/$GCR_PROJECT_ID/${{github.repository}}/$GITHUB_SHA" \
