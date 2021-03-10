@@ -17,6 +17,9 @@ jobs:
     environment: production
 
     steps:
+      - run: echo ::set-env name=REPOSITORY_NAME::$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}')
+        shell: bash
+
       - name: Checkout
         uses: actions/checkout@v2
 
@@ -30,13 +33,13 @@ jobs:
         run: |-
           gcloud builds submit \
             --quiet \
-            --tag "gcr.io/$GCR_PROJECT_ID/${{github.repository}}:$GITHUB_SHA"
+            --tag "gcr.io/$GCR_PROJECT_ID/{$GITHUB_REPOSITORY:$GITHUB_SHA"
             
       - name: Deploy
         run: |-
-          gcloud run deploy "${{github.repository/\//-}}" \
+          gcloud run deploy "${$GITHUB_REPOSITORY/\//-}" \
             --quiet \
             --region "$RUN_REGION" \
-            --image "gcr.io/$GCR_PROJECT_ID/${{github.repository}}/$GITHUB_SHA" \
+            --image "gcr.io/$GCR_PROJECT_ID/{$GITHUB_REPOSITORY/$GITHUB_SHA" \
             --platform "managed" \
             --allow-unauthenticated
