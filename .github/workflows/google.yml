@@ -11,69 +11,38 @@ env:
   SERVICE_NAME: travel-proton-name
 
 jobs:
-  build:
-    name: Build React App
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@main
-
-      - name: Setup Node.js (NPM)
-        uses: actions/setup-node@master
-        with:
-          node-version: '12.x'
-
-      - name: Use cached node_modules
-        uses: actions/cache@master
-        with:
-          path: node_modules
-          key: nodeModules-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            nodeModules-
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
-        env:
-          CI: true
-
-      - name: Build Development
-        run: yarn build
-
-      - name: Archive Production Artifact
-        uses: actions/upload-artifact@main
-        with:
-          name: build
-          path: build
-
   deploy-gcr:
-    name: Deploy to GCR
+    name: Setup, Build, Publish, and Deploy
     needs: build
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@main
+      - name: Checkout
+        uses: actions/checkout@v2
 
       - name: Download Artifact
         uses: actions/download-artifact@main
         with:
           name: build
-          path: .docker/build
+      #    path: .docker/build
 
       - name: Setup gcloud CLI
-        uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+        uses: google-github-actions/setup-gcloud@v0.2.0
         with:
-          version: '290.0.1'
-          service_account_key: ${{ secrets.GCR_SA_KEY }}
-          project_id: ${{ secrets.GCR_PROJECT }}
+            service_account_key: ${{ secrets.GKE_SA_KEY }}
+            project_id: ${{ secrets.GKE_PROJECT }}
 
       # Build and push image to Google Container Registry
-      - name: Build & Push
+      - name: Build
         run: |-
-          gcloud builds submit \
-            --quiet \
-            --tag "gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA"
-        working-directory: .docker
+          docker build \
+            --tag "gcr.io/$PROJECT_ID/$IMAGE:$GITHUB_SHA" \
+            --build-arg GITHUB_SHA="$GITHUB_SHA" \
+            --build-arg GITHUB_REF="$GITHUB_REF" \
+            
+      - name: Publish
+        run: |-
+          docker push "gcr.io/$PROJECT_ID/$IMAGE:$GITHUB_SHA"
 
       # Deploy image to Cloud Run
       - name: Deploy GCR
@@ -81,6 +50,6 @@ jobs:
           gcloud run deploy "$SERVICE_NAME" \
             --quiet \
             --region "$RUN_REGION" \
-            --image "gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA" \
+            --image "gcr.io/$PROJECT_ID/$IMAGE:$GITHUB_SHA" \
             --platform "managed" \
             --allow-unauthenticated
