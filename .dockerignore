@@ -1,0 +1,4 @@
+.dockerignore
+Dockerfile
+json_filler.rb
+README.md
