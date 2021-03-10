@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  GCR_PROJECT_ID: ${{ secrets.GCR_PROJECT }}
+  GCR_PROJECT_ID: ${{ secrets.GCR_PROJECT_ID }}
   RUN_REGION: us-central1
   SERVICE_NAME: travel-proton-name
 
@@ -24,7 +24,7 @@ jobs:
         uses: google-github-actions/setup-gcloud@v0.2.0
         with:
             service_account_key: ${{ secrets.GCR_SA_KEY }}
-            project_id: ${{ secrets.GCR_PROJECT }}
+            project_id: ${{ secrets.GCR_PROJECT_ID }}
 
       #- name: Build
         #run: |-
@@ -32,13 +32,13 @@ jobs:
             #--tag "gcr.io/$GCR_PROJECT_ID/${{github.repository}}/$GITHUB_SHA" \
             #--build-arg GITHUB_SHA="$GITHUB_SHA" \
             #--build-arg GITHUB_REF="$GITHUB_REF" \
+            # .
 
       - name: Build
         run: |-
           gcloud builds submit \
             --quiet \
             --tag "gcr.io/$GCR_PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA"
-            .
             
       #- name: Publish
         #run: |-
