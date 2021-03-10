@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  PROJECT_ID: ${{ secrets.GCR_PROJECT }}
+  GCR_PROJECT_ID: ${{ secrets.GCR_PROJECT }}
   RUN_REGION: us-central1
   SERVICE_NAME: travel-proton-name
 
@@ -30,21 +30,21 @@ jobs:
       - name: Build
         run: |-
           docker build \
-            --tag "gcr.io/${{github.repository}}/$GITHUB_SHA" \
+            --tag "gcr.io/${{GCR_PROJECT_ID}}/${{github.repository}}/$GITHUB_SHA" \
             --build-arg GITHUB_SHA="$GITHUB_SHA" \
             --build-arg GITHUB_REF="$GITHUB_REF" \
             .
             
       - name: Publish
         run: |-
-          docker push "gcr.io/${{github.repository}}/$GITHUB_SHA"
+          docker push "gcr.io/${{GCR_PROJECT_ID}}/${{github.repository}}/$GITHUB_SHA"
 
       # Deploy image to Cloud Run
-      - name: Deploy GCR
+      - name: Deploy
         run: |-
           gcloud run deploy "$SERVICE_NAME" \
             --quiet \
             --region "$RUN_REGION" \
-            --image "gcr.io/${{github.repository}}/$GITHUB_SHA" \
+            --image "gcr.io/${{GCR_PROJECT_ID}}/${{github.repository}}/$GITHUB_SHA" \
             --platform "managed" \
             --allow-unauthenticated
