@@ -17,6 +17,10 @@ jobs:
     environment: production
 
     steps:
+      - name: Set REPOSITORY_NAME
+        run: echo ::set-env name=REPOSITORY_NAME::$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}')
+        shell: bash
+    
       - name: Checkout
         uses: actions/checkout@v2
 
@@ -30,13 +34,13 @@ jobs:
       - name: Build
         run: |-
           docker build \
-            --tag "gcr.io/$PROJECT_ID/$IMAGE:$GITHUB_SHA" \
+            --tag "gcr.io/$REPOSITORY_NAME/$IMAGE:$GITHUB_SHA" \
             --build-arg GITHUB_SHA="$GITHUB_SHA" \
             --build-arg GITHUB_REF="$GITHUB_REF" \
             
       - name: Publish
         run: |-
-          docker push "gcr.io/$PROJECT_ID/$IMAGE:$GITHUB_SHA"
+          docker push "gcr.io/$REPOSITORY_NAME/$IMAGE:$GITHUB_SHA"
 
       # Deploy image to Cloud Run
       - name: Deploy GCR
@@ -44,6 +48,6 @@ jobs:
           gcloud run deploy "$SERVICE_NAME" \
             --quiet \
             --region "$RUN_REGION" \
-            --image "gcr.io/$PROJECT_ID/$IMAGE:$GITHUB_SHA" \
+            --image "gcr.io/$REPOSITORY_NAME/$IMAGE:$GITHUB_SHA" \
             --platform "managed" \
             --allow-unauthenticated
