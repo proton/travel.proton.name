@@ -9,6 +9,7 @@ on:
 env:
   GCR_PROJECT_ID: ${{ secrets.GCR_PROJECT_ID }}
   RUN_REGION: us-central1
+  RUN_PROJECT: travel-proton-name
 
 jobs:
   setup-build-publish-deploy:
@@ -34,7 +35,7 @@ jobs:
             
       - name: Deploy
         run: |-
-          gcloud run deploy `echo $a | sed -e 's/[\.\/]/-/g'` \
+          gcloud run deploy $RUN_PROJECT \
             --quiet \
             --region "$RUN_REGION" \
             --image "gcr.io/$GCR_PROJECT_ID/$GITHUB_REPOSITORY/$GITHUB_SHA" \
