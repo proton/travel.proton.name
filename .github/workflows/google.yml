@@ -17,9 +17,6 @@ jobs:
     environment: production
 
     steps:
-      - run: echo ::set-env name=REPOSITORY_NAME::$(echo "$GITHUB_REPOSITORY" | awk -F / '{print $2}')
-        shell: bash
-
       - name: Checkout
         uses: actions/checkout@v2
 
