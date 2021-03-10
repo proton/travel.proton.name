@@ -33,6 +33,7 @@ jobs:
             --tag "gcr.io/${{github.repository}}/$GITHUB_SHA" \
             --build-arg GITHUB_SHA="$GITHUB_SHA" \
             --build-arg GITHUB_REF="$GITHUB_REF" \
+            .
             
       - name: Publish
         run: |-
