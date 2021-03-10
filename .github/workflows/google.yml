@@ -34,7 +34,7 @@ jobs:
             
       - name: Deploy
         run: |-
-          gcloud run deploy "${$GITHUB_REPOSITORY/\//-}" \
+          gcloud run deploy "${GITHUB_REPOSITORY/\//-}" \
             --quiet \
             --region "$RUN_REGION" \
             --image "gcr.io/$GCR_PROJECT_ID/$GITHUB_REPOSITORY/$GITHUB_SHA" \
