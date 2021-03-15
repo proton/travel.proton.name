@@ -3502,5 +3502,21 @@
     "title_ru": "Майами",
     "y": 25.77427,
     "x": -80.19366
+  },
+  {
+    "city_id": 120585,
+    "title_en": "Pattaya",
+    "been_count_msg": "человек",
+    "want": false,
+    "visited": true,
+    "country_ru": "Таиланд",
+    "country_url": "/locations/Thailand/",
+    "country_en": "Thailand",
+    "been_count": 3355,
+    "city_url": "/locations/Thailand/Phatthaya/",
+    "image_url": "",
+    "title_ru": "Паттайя",
+    "y": 12.93333,
+    "x": 100.88333
   }
 ]
