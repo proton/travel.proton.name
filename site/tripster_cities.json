@@ -3582,5 +3582,37 @@
     "title_ru": "Pinecrest",
     "y": 25.66705,
     "x": -80.30811
+  },
+  {
+    "city_id": 132343,
+    "title_en": "Cedar Park",
+    "been_count_msg": "человек",
+    "want": false,
+    "visited": true,
+    "country_ru": "США",
+    "country_url": "/locations/United%20States/",
+    "country_en": "United States",
+    "been_count": 7,
+    "city_url": "/locations/United%20States/Cedar%20Park/",
+    "image_url": "http://farm4.staticflickr.com/3809/9517127739_cf5734ab0e_s.jpg",
+    "title_ru": "Cedar Park",
+    "y": 30.5052,
+    "x": -97.82029
+  },
+  {
+    "city_id": 133167,
+    "title_en": "Round Rock",
+    "been_count_msg": "человек",
+    "want": false,
+    "visited": true,
+    "country_ru": "США",
+    "country_url": "/locations/United%20States/",
+    "country_en": "United States",
+    "been_count": 6,
+    "city_url": "/locations/United%20States/Round%20Rock/133167/",
+    "image_url": "http://farm9.staticflickr.com/8507/8592632129_c2e535a1f2_s.jpg",
+    "title_ru": "Раунд-Рок",
+    "y": 30.50826,
+    "x": -97.6789
   }
 ]
