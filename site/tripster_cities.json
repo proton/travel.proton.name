@@ -3676,6 +3676,30 @@
     "x": -68.8156575
   },
   {
+    "city_id": "Palmera Turistica Saona - Dominican Republic",
+    "title_en": "Palmera Turistica Saona",
+    "title_ru": "Palmera Turistica Saona",
+    "want": false,
+    "visited": true,
+    "country_ru": "Доминиканская Республика",
+    "country_url": "/locations/Dominican%20Republic/",
+    "country_en": "Dominican Republic",
+    "y": 18.1802791,
+    "x": -68.7828085
+  },
+  {
+    "city_id": "Banco de arena las palmilla - Dominican Republic",
+    "title_en": "Banco de arena las palmilla",
+    "title_ru": "Banco de arena las palmilla",
+    "want": false,
+    "visited": true,
+    "country_ru": "Доминиканская Республика",
+    "country_url": "/locations/Dominican%20Republic/",
+    "country_en": "Dominican Republic",
+    "y": 18.2335072,
+    "x": -68.7590648
+  },
+  {
     "city_id": "Los Melones - Dominican Republic",
     "title_en": "Los Melones",
     "title_ru": "Los Melones",
