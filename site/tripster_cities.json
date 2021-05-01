@@ -3770,5 +3770,21 @@
     "title_ru": "Санто-Доминго",
     "y": 18.47186,
     "x": -69.89232
+  },
+  {
+    "city_id": 33269,
+    "title_en": "Salvaleon de Higuey",
+    "been_count_msg": "человека",
+    "want": false,
+    "visited": true,
+    "country_ru": "Доминиканская Республика",
+    "country_url": "/locations/Dominican%20Republic/",
+    "country_en": "Dominican Republic",
+    "been_count": 72,
+    "city_url": "/locations/Dominican%20Republic/Salvaleon%20de%20Higuey/",
+    "image_url": "http://farm4.staticflickr.com/3747/11337878145_7fd5ef6e3d_s.jpg",
+    "title_ru": "Salvaleon de Higuey",
+    "y": 18.61501,
+    "x": -68.70798
   }
 ]
