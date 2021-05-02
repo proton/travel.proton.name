@@ -3676,6 +3676,18 @@
     "x": -68.8156575
   },
   {
+    "city_id": "Anamuya - Dominican Republic",
+    "title_en": "Anamuya",
+    "title_ru": "Anamuya",
+    "want": false,
+    "visited": true,
+    "country_ru": "Доминиканская Республика",
+    "country_url": "/locations/Dominican%20Republic/",
+    "country_en": "Dominican Republic",
+    "y": 18.7166264,
+    "x": -68.6501228
+  },
+  {
     "city_id": "Palmera Turistica Saona - Dominican Republic",
     "title_en": "Palmera Turistica Saona",
     "title_ru": "Palmera Turistica Saona",
