@@ -3676,6 +3676,18 @@
     "x": -68.8156575
   },
   {
+    "city_id": "Dead Sea Spa Hotel - Jordan",
+    "title_en": "Dead Sea Spa Hotel",
+    "title_ru": "Dead Sea Spa Hotel",
+    "want": false,
+    "visited": true,
+    "country_ru": "Иордания",
+    "country_url": "/locations/Jordan/",
+    "country_en": "Jordan",
+    "y": 31.7134812,
+    "x": 35.58557
+  },
+  {
     "city_id": "Anamuya - Dominican Republic",
     "title_en": "Anamuya",
     "title_ru": "Anamuya",
