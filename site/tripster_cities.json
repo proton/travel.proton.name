@@ -1940,6 +1940,46 @@
     "x": 35.48392
   },
   {
+    "city_id": "Giraffe Centre - Kenya",
+    "title_en": "Giraffe Centre",
+    "title_ru": "Giraffe Centre",
+    "want": false,
+    "visited": true,
+    "country_ru": "Кения",
+    "country_url": "/locations/Kenya/",
+    "country_en": "Kenya",
+    "y": -1.3763693,
+    "x": 36.7442036
+  },
+  {
+    "city_id": 98226,
+    "title_en": "Nairobi",
+    "been_count_msg": "человека",
+    "want": false,
+    "visited": true,
+    "country_ru": "Кения",
+    "country_url": "/locations/Kenya/",
+    "country_en": "Kenya",
+    "been_count": 344,
+    "city_url": "/locations/Kenya/Nairobi/",
+    "image_url": "",
+    "title_ru": "Найроби",
+    "y": -1.28333,
+    "x": 36.81667
+  },
+  {
+    "city_id": "Oloolua Nature Trail - Kenya",
+    "title_en": "Oloolua Nature Trail",
+    "title_ru": "Oloolua Nature Trail",
+    "want": false,
+    "visited": true,
+    "country_ru": "Кения",
+    "country_url": "/locations/Kenya/",
+    "country_en": "Kenya",
+    "y": -1.359714,
+    "x": 36.7122154
+  },
+  {
     "city_id": 99077,
     "title_en": "Vilnius",
     "been_count_msg": "человек",
@@ -3538,6 +3578,22 @@
     "title_ru": "Bal Harbour",
     "y": 25.89176,
     "x": -80.12699
+  },
+  {
+    "city_id": 136420,
+    "title_en": "Boston",
+    "been_count_msg": "человек",
+    "want": false,
+    "visited": true,
+    "country_ru": "США",
+    "country_url": "/locations/United%20States/",
+    "country_en": "United States",
+    "been_count": 1355,
+    "city_url": "/locations/United%20States/Boston/136420/",
+    "image_url": "",
+    "title_ru": "Бостон",
+    "y": 42.35843,
+    "x": -71.05977
   },
   {
     "city_id": 151882,
