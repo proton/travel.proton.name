@@ -1817,6 +1817,17 @@
     "x": 35.48392
   },
   {
+    "city_id": "Amboseli National Park - Kenya",
+    "title_en": "Amboseli National Park",
+    "title_ru": "Amboseli National Park",
+    "visited": true,
+    "country_ru": "Кения",
+    "country_url": "/locations/Kenya/",
+    "country_en": "Kenya",
+    "y": -2.6527299,
+    "x": 37.26062
+  },
+  {
     "city_id": "Giraffe Centre - Kenya",
     "title_en": "Giraffe Centre",
     "title_ru": "Giraffe Centre",
@@ -1826,6 +1837,21 @@
     "country_en": "Kenya",
     "y": -1.3763693,
     "x": 36.7442036
+  },
+  {
+    "city_id": 98233,
+    "title_en": "Mombasa",
+    "been_count_msg": "человека",
+    "visited": true,
+    "country_ru": "Кения",
+    "country_url": "/locations/Kenya/",
+    "country_en": "Kenya",
+    "been_count": 163,
+    "city_url": "/locations/Kenya/Mombasa/",
+    "image_url": "",
+    "title_ru": "Момбаса",
+    "y": -4.05466,
+    "x": 39.66359
   },
   {
     "city_id": 98226,
@@ -1841,6 +1867,36 @@
     "title_ru": "Найроби",
     "y": -1.28333,
     "x": 36.81667
+  },
+  {
+    "city_id": 98225,
+    "title_en": "Naivasha",
+    "been_count_msg": "человек",
+    "visited": true,
+    "country_ru": "Кения",
+    "country_url": "/locations/Kenya/",
+    "country_en": "Kenya",
+    "been_count": 59,
+    "city_url": "/locations/Kenya/Naivasha/",
+    "image_url": "",
+    "title_ru": "Найваша",
+    "y": -0.71383,
+    "x": 36.43261
+  },
+  {
+    "city_id": 98224,
+    "title_en": "Nakuru",
+    "been_count_msg": "человек",
+    "visited": true,
+    "country_ru": "Кения",
+    "country_url": "/locations/Kenya/",
+    "country_en": "Kenya",
+    "been_count": 97,
+    "city_url": "/locations/Kenya/Nakuru/",
+    "image_url": "http://farm4.staticflickr.com/3742/12054805893_31493a08a9_s.jpg",
+    "title_ru": "Накуру",
+    "y": -0.30719,
+    "x": 36.07225
   },
   {
     "city_id": "Oloolua Nature Trail - Kenya",
