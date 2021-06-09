@@ -46,7 +46,6 @@ const control = {
   loadMarkers() {
     this.loadJSON('/tripster_cities.json', cities => {
       for (const city of cities) {
-        if (!city.visited) continue;
         this.addCityToMap(city);
       }
     });

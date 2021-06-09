@@ -2,7 +2,6 @@
   {
     "city_id": 150874,
     "title_en": "Andorra la villa",
-    "visited": true,
     "country_ru": "Андорра",
     "country_url": "/locations/Andorra/",
     "country_en": "Andorra",
@@ -15,7 +14,6 @@
   {
     "city_id": 7,
     "title_en": "Canillo",
-    "visited": true,
     "country_ru": "Андорра",
     "country_url": "/locations/Andorra/",
     "country_en": "Andorra",
@@ -28,7 +26,6 @@
   {
     "city_id": 182068,
     "title_en": "El Tarter",
-    "visited": true,
     "country_ru": "Андорра",
     "country_url": "/locations/Andorra/",
     "country_en": "Andorra",
@@ -41,7 +38,6 @@
   {
     "city_id": 366143,
     "title_en": "Soldeu",
-    "visited": true,
     "country_ru": "Андорра",
     "country_url": "/locations/Andorra/",
     "country_en": "Andorra",
@@ -54,7 +50,6 @@
   {
     "city_id": 2,
     "title_en": "les Escaldes",
-    "visited": true,
     "country_ru": "Андорра",
     "country_url": "/locations/Andorra/",
     "country_en": "Andorra",
@@ -67,7 +62,6 @@
   {
     "city_id": 735,
     "title_en": "Vienna",
-    "visited": true,
     "country_ru": "Австрия",
     "country_url": "/locations/Austria/",
     "country_en": "Austria",
@@ -80,7 +74,6 @@
   {
     "city_id": 4860,
     "title_en": "Babruysk",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -93,7 +86,6 @@
   {
     "city_id": 4855,
     "title_en": "Brest",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -106,7 +98,6 @@
   {
     "city_id": 4843,
     "title_en": "Gomel",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -119,7 +110,6 @@
   {
     "city_id": 4841,
     "title_en": "Hrodna",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -132,7 +122,6 @@
   {
     "city_id": 4831,
     "title_en": "Lida",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -145,7 +134,6 @@
   {
     "city_id": 150373,
     "title_en": "Mahilyow",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -158,7 +146,6 @@
   {
     "city_id": 4826,
     "title_en": "Minsk",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -171,7 +158,6 @@
   {
     "city_id": 150911,
     "title_en": "Mir",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -184,7 +170,6 @@
   {
     "city_id": 4824,
     "title_en": "Novogrudok",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -197,7 +182,6 @@
   {
     "city_id": 4822,
     "title_en": "Nyasvizh",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -210,7 +194,6 @@
   {
     "city_id": 150335,
     "title_en": "Vitebsk",
-    "visited": true,
     "country_ru": "Беларусь",
     "country_url": "/locations/Belarus/",
     "country_en": "Belarus",
@@ -223,7 +206,6 @@
   {
     "city_id": 2487,
     "title_en": "Bansko",
-    "visited": true,
     "country_ru": "Болгария",
     "country_url": "/locations/Bulgaria/",
     "country_en": "Bulgaria",
@@ -236,7 +218,6 @@
   {
     "city_id": 2285,
     "title_en": "Sofia",
-    "visited": true,
     "country_ru": "Болгария",
     "country_url": "/locations/Bulgaria/",
     "country_en": "Bulgaria",
@@ -249,7 +230,6 @@
   {
     "city_id": 83550,
     "title_en": "Skradin",
-    "visited": true,
     "country_ru": "Хорватия",
     "country_url": "/locations/Croatia/",
     "country_en": "Croatia",
@@ -262,7 +242,6 @@
   {
     "city_id": 83542,
     "title_en": "Slunj",
-    "visited": true,
     "country_ru": "Хорватия",
     "country_url": "/locations/Croatia/",
     "country_en": "Croatia",
@@ -275,7 +254,6 @@
   {
     "city_id": 83539,
     "title_en": "Solin",
-    "visited": true,
     "country_ru": "Хорватия",
     "country_url": "/locations/Croatia/",
     "country_en": "Croatia",
@@ -288,7 +266,6 @@
   {
     "city_id": 83536,
     "title_en": "Split",
-    "visited": true,
     "country_ru": "Хорватия",
     "country_url": "/locations/Croatia/",
     "country_en": "Croatia",
@@ -301,7 +278,6 @@
   {
     "city_id": 83508,
     "title_en": "Trogir",
-    "visited": true,
     "country_ru": "Хорватия",
     "country_url": "/locations/Croatia/",
     "country_en": "Croatia",
@@ -314,7 +290,6 @@
   {
     "city_id": 20459,
     "title_en": "Chribska",
-    "visited": true,
     "country_ru": "Чехия",
     "country_url": "/locations/Czech%20Republic/",
     "country_en": "Czech Republic",
@@ -327,7 +302,6 @@
   {
     "city_id": 19657,
     "title_en": "Hradec Kralove",
-    "visited": true,
     "country_ru": "Чехия",
     "country_url": "/locations/Czech%20Republic/",
     "country_en": "Czech Republic",
@@ -340,7 +314,6 @@
   {
     "city_id": 19625,
     "title_en": "Hrensko",
-    "visited": true,
     "country_ru": "Чехия",
     "country_url": "/locations/Czech%20Republic/",
     "country_en": "Czech Republic",
@@ -353,7 +326,6 @@
   {
     "city_id": 18846,
     "title_en": "Kutna Hora",
-    "visited": true,
     "country_ru": "Чехия",
     "country_url": "/locations/Czech%20Republic/",
     "country_en": "Czech Republic",
@@ -366,7 +338,6 @@
   {
     "city_id": 17638,
     "title_en": "Pardubice",
-    "visited": true,
     "country_ru": "Чехия",
     "country_url": "/locations/Czech%20Republic/",
     "country_en": "Czech Republic",
@@ -379,7 +350,6 @@
   {
     "city_id": 17486,
     "title_en": "Podebrady",
-    "visited": true,
     "country_ru": "Чехия",
     "country_url": "/locations/Czech%20Republic/",
     "country_en": "Czech Republic",
@@ -392,7 +362,6 @@
   {
     "city_id": 17373,
     "title_en": "Prague",
-    "visited": true,
     "country_ru": "Чехия",
     "country_url": "/locations/Czech%20Republic/",
     "country_en": "Czech Republic",
@@ -405,7 +374,6 @@
   {
     "city_id": 16111,
     "title_en": "Trutnov",
-    "visited": true,
     "country_ru": "Чехия",
     "country_url": "/locations/Czech%20Republic/",
     "country_en": "Czech Republic",
@@ -418,7 +386,6 @@
   {
     "city_id": 33072,
     "title_en": "Copenhagen",
-    "visited": true,
     "country_ru": "Дания",
     "country_url": "/locations/Denmark/",
     "country_en": "Denmark",
@@ -432,7 +399,6 @@
     "city_id": "Anamuya - Dominican Republic",
     "title_en": "Anamuya",
     "title_ru": "Anamuya",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -443,7 +409,6 @@
     "city_id": "Bahahibe - Dominican Republic",
     "title_en": "Bahahibe",
     "title_ru": "Bahahibe",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -454,7 +419,6 @@
     "city_id": "Banco de arena las palmilla - Dominican Republic",
     "title_en": "Banco de arena las palmilla",
     "title_ru": "Banco de arena las palmilla",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -464,7 +428,6 @@
   {
     "city_id": 182036,
     "title_en": "Boca Chica",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -477,7 +440,6 @@
   {
     "city_id": 33336,
     "title_en": "La Romana",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -491,7 +453,6 @@
     "city_id": "Los Melones - Dominican Republic",
     "title_en": "Los Melones",
     "title_ru": "Los Melones",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -502,7 +463,6 @@
     "city_id": "Palmera Turistica Saona - Dominican Republic",
     "title_en": "Palmera Turistica Saona",
     "title_ru": "Palmera Turistica Saona",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -513,7 +473,6 @@
     "city_id": "Playa Dominicus - Dominican Republic",
     "title_en": "Playa Dominicus",
     "title_ru": "Playa Dominicus",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -523,7 +482,6 @@
   {
     "city_id": 150640,
     "title_en": "Punta Cana",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -536,7 +494,6 @@
   {
     "city_id": 33269,
     "title_en": "Salvaleon de Higuey",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -549,7 +506,6 @@
   {
     "city_id": 33254,
     "title_en": "Santo Domingo",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -562,7 +518,6 @@
   {
     "city_id": 354904,
     "title_en": "Santo Domingo Este",
-    "visited": true,
     "country_ru": "Доминиканская Республика",
     "country_url": "/locations/Dominican%20Republic/",
     "country_en": "Dominican Republic",
@@ -575,7 +530,6 @@
   {
     "city_id": 34802,
     "title_en": "Cairo",
-    "visited": true,
     "country_ru": "Египет",
     "country_url": "/locations/Egypt/",
     "country_en": "Egypt",
@@ -588,7 +542,6 @@
   {
     "city_id": 34732,
     "title_en": "Sharm el-Sheikh",
-    "visited": true,
     "country_ru": "Египет",
     "country_url": "/locations/Egypt/",
     "country_en": "Egypt",
@@ -601,7 +554,6 @@
   {
     "city_id": 33927,
     "title_en": "Tallinn",
-    "visited": true,
     "country_ru": "Эстония",
     "country_url": "/locations/Estonia/",
     "country_en": "Estonia",
@@ -614,7 +566,6 @@
   {
     "city_id": 41827,
     "title_en": "Addis Ababa",
-    "visited": true,
     "country_ru": "Эфиопия",
     "country_url": "/locations/Ethiopia/",
     "country_en": "Ethiopia",
@@ -627,7 +578,6 @@
   {
     "city_id": "Ambaras mountain - Ethiopia",
     "title_en": "Ambaras mountain",
-    "visited": true,
     "country_ru": "Эфиопия",
     "country_url": "/locations/Ethiopia/",
     "country_en": "Ethiopia",
@@ -639,7 +589,6 @@
   {
     "city_id": 41813,
     "title_en": "Bahir Dar",
-    "visited": true,
     "country_ru": "Эфиопия",
     "country_url": "/locations/Ethiopia/",
     "country_en": "Ethiopia",
@@ -652,7 +601,6 @@
   {
     "city_id": 41802,
     "title_en": "Debark'",
-    "visited": false,
     "country_ru": "Эфиопия",
     "country_url": "/locations/Ethiopia/",
     "country_en": "Ethiopia",
@@ -665,7 +613,6 @@
   {
     "city_id": 41773,
     "title_en": "Gondar",
-    "visited": false,
     "country_ru": "Эфиопия",
     "country_url": "/locations/Ethiopia/",
     "country_en": "Ethiopia",
@@ -678,7 +625,6 @@
   {
     "city_id": 41755,
     "title_en": "Lalibela",
-    "visited": true,
     "country_ru": "Эфиопия",
     "country_url": "/locations/Ethiopia/",
     "country_en": "Ethiopia",
@@ -691,7 +637,6 @@
   {
     "city_id": "Tissisat - Ethiopia",
     "title_en": "Tissisat",
-    "visited": true,
     "country_ru": "Эфиопия",
     "country_url": "/locations/Ethiopia/",
     "country_en": "Ethiopia",
@@ -703,7 +648,6 @@
   {
     "city_id": 42212,
     "title_en": "Helsinki",
-    "visited": true,
     "country_ru": "Финляндия",
     "country_url": "/locations/Finland/",
     "country_en": "Finland",
@@ -716,7 +660,6 @@
   {
     "city_id": 150256,
     "title_en": "Vantaa",
-    "visited": true,
     "country_ru": "Финляндия",
     "country_url": "/locations/Finland/",
     "country_en": "Finland",
@@ -729,7 +672,6 @@
   {
     "city_id": 75969,
     "title_en": "Albi",
-    "visited": true,
     "country_ru": "Франция",
     "country_url": "/locations/France/",
     "country_en": "France",
@@ -742,7 +684,6 @@
   {
     "city_id": 71966,
     "title_en": "Bram",
-    "visited": true,
     "country_ru": "Франция",
     "country_url": "/locations/France/",
     "country_en": "France",
@@ -755,7 +696,6 @@
   {
     "city_id": 70959,
     "title_en": "Carcassonne",
-    "visited": true,
     "country_ru": "Франция",
     "country_url": "/locations/France/",
     "country_en": "France",
@@ -768,7 +708,6 @@
   {
     "city_id": 70818,
     "title_en": "Castelnaudary",
-    "visited": true,
     "country_ru": "Франция",
     "country_url": "/locations/France/",
     "country_en": "France",
@@ -781,7 +720,6 @@
   {
     "city_id": 54069,
     "title_en": "Paris",
-    "visited": true,
     "country_ru": "Франция",
     "country_url": "/locations/France/",
     "country_en": "France",
@@ -794,7 +732,6 @@
   {
     "city_id": 45204,
     "title_en": "Toulouse",
-    "visited": true,
     "country_ru": "Франция",
     "country_url": "/locations/France/",
     "country_en": "France",
@@ -807,7 +744,6 @@
   {
     "city_id": 352799,
     "title_en": "Beelitz-Heilstaetten",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -820,7 +756,6 @@
   {
     "city_id": 31799,
     "title_en": "Berlin",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -833,7 +768,6 @@
   {
     "city_id": 31386,
     "title_en": "Brandenburg an der Havel",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -846,7 +780,6 @@
   {
     "city_id": 31305,
     "title_en": "Bremen",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -859,7 +792,6 @@
   {
     "city_id": 30969,
     "title_en": "Cottbus",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -872,7 +804,6 @@
   {
     "city_id": 30573,
     "title_en": "Dreetz",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -885,7 +816,6 @@
   {
     "city_id": 30556,
     "title_en": "Dresden",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -898,7 +828,6 @@
   {
     "city_id": 30345,
     "title_en": "Eisenhuettenstadt",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -911,7 +840,6 @@
   {
     "city_id": 29914,
     "title_en": "Forst",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -924,7 +852,6 @@
   {
     "city_id": 29894,
     "title_en": "Frankfurt (Oder)",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -937,7 +864,6 @@
   {
     "city_id": 29893,
     "title_en": "Frankfurt am Main",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -950,7 +876,6 @@
   {
     "city_id": 29269,
     "title_en": "Greifswald",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -963,7 +888,6 @@
   {
     "city_id": 29006,
     "title_en": "Guben",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -976,7 +900,6 @@
   {
     "city_id": 28839,
     "title_en": "Hamburg",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -989,7 +912,6 @@
   {
     "city_id": 27341,
     "title_en": "Koenigs Wusterhausen",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1002,7 +924,6 @@
   {
     "city_id": 152698,
     "title_en": "Lehde",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1015,7 +936,6 @@
   {
     "city_id": 26876,
     "title_en": "Leipzig",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1028,7 +948,6 @@
   {
     "city_id": 26627,
     "title_en": "Luebbenau",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1041,7 +960,6 @@
   {
     "city_id": 150477,
     "title_en": "Magdeburg",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1054,7 +972,6 @@
   {
     "city_id": 26305,
     "title_en": "Meissen",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1067,7 +984,6 @@
   {
     "city_id": 26044,
     "title_en": "Moritzburg",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1080,7 +996,6 @@
   {
     "city_id": 25655,
     "title_en": "Neustadt",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1093,7 +1008,6 @@
   {
     "city_id": 25651,
     "title_en": "Neustadt",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1106,7 +1020,6 @@
   {
     "city_id": 25116,
     "title_en": "Oranienburg",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1119,7 +1032,6 @@
   {
     "city_id": 25046,
     "title_en": "Ostseebad Binz",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1132,7 +1044,6 @@
   {
     "city_id": 24841,
     "title_en": "Pirna",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1145,7 +1056,6 @@
   {
     "city_id": 24734,
     "title_en": "Potsdam",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1158,7 +1068,6 @@
   {
     "city_id": 24640,
     "title_en": "Quedlinburg",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1171,7 +1080,6 @@
   {
     "city_id": 24124,
     "title_en": "Rostock",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1184,7 +1092,6 @@
   {
     "city_id": 23898,
     "title_en": "Sassnitz",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1197,7 +1104,6 @@
   {
     "city_id": 23479,
     "title_en": "Schwerin",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1210,7 +1116,6 @@
   {
     "city_id": 22972,
     "title_en": "Stralsund",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1223,7 +1128,6 @@
   {
     "city_id": 22844,
     "title_en": "Tantow",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1236,7 +1140,6 @@
   {
     "city_id": 22077,
     "title_en": "Warnemuende",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1249,7 +1152,6 @@
   {
     "city_id": 21560,
     "title_en": "Wismar",
-    "visited": true,
     "country_ru": "Германия",
     "country_url": "/locations/Germany/",
     "country_en": "Germany",
@@ -1262,7 +1164,6 @@
   {
     "city_id": 81262,
     "title_en": "Archaia Olympia",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1275,7 +1176,6 @@
   {
     "city_id": 81271,
     "title_en": "Argos",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1288,7 +1188,6 @@
   {
     "city_id": 81219,
     "title_en": "Athens",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1301,7 +1200,6 @@
   {
     "city_id": 150880,
     "title_en": "Delphi",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1314,7 +1212,6 @@
   {
     "city_id": 79545,
     "title_en": "Gytheio",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1327,7 +1224,6 @@
   {
     "city_id": 80894,
     "title_en": "Kalamata",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1340,7 +1236,6 @@
   {
     "city_id": 80613,
     "title_en": "Korinthos",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1353,7 +1248,6 @@
   {
     "city_id": 80668,
     "title_en": "Kyllini",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1366,7 +1260,6 @@
   {
     "city_id": 80260,
     "title_en": "Nafplio",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1379,7 +1272,6 @@
   {
     "city_id": 80252,
     "title_en": "Nea Kios",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1392,7 +1284,6 @@
   {
     "city_id": 80235,
     "title_en": "Nemea",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1405,7 +1296,6 @@
   {
     "city_id": 80099,
     "title_en": "Patra",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1418,7 +1308,6 @@
   {
     "city_id": 80033,
     "title_en": "Pylos",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1431,7 +1320,6 @@
   {
     "city_id": 79914,
     "title_en": "Rio",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1444,7 +1332,6 @@
   {
     "city_id": 79807,
     "title_en": "Sparti",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1457,7 +1344,6 @@
   {
     "city_id": 79747,
     "title_en": "Thivai",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1470,7 +1356,6 @@
   {
     "city_id": 349268,
     "title_en": "Tirins",
-    "visited": true,
     "country_ru": "Греция",
     "country_url": "/locations/Greece/",
     "country_en": "Greece",
@@ -1483,7 +1368,6 @@
   {
     "city_id": 84848,
     "title_en": "Budapest",
-    "visited": true,
     "country_ru": "Венгрия",
     "country_url": "/locations/Hungary/",
     "country_en": "Hungary",
@@ -1496,7 +1380,6 @@
   {
     "city_id": 84602,
     "title_en": "Ozora",
-    "visited": true,
     "country_ru": "Венгрия",
     "country_url": "/locations/Hungary/",
     "country_en": "Hungary",
@@ -1509,7 +1392,6 @@
   {
     "city_id": 150529,
     "title_en": "Anjuna",
-    "visited": true,
     "country_ru": "Индия",
     "country_url": "/locations/India/",
     "country_en": "India",
@@ -1522,7 +1404,6 @@
   {
     "city_id": 150281,
     "title_en": "Arambol",
-    "visited": true,
     "country_ru": "Индия",
     "country_url": "/locations/India/",
     "country_en": "India",
@@ -1535,7 +1416,6 @@
   {
     "city_id": 152413,
     "title_en": "Vasco da Gama",
-    "visited": true,
     "country_ru": "Индия",
     "country_url": "/locations/India/",
     "country_en": "India",
@@ -1548,7 +1428,6 @@
   {
     "city_id": 85542,
     "title_en": "Eilat",
-    "visited": true,
     "country_ru": "Израиль",
     "country_url": "/locations/Israel/",
     "country_en": "Israel",
@@ -1561,7 +1440,6 @@
   {
     "city_id": 85460,
     "title_en": "Jerusalem",
-    "visited": true,
     "country_ru": "Израиль",
     "country_url": "/locations/Israel/",
     "country_en": "Israel",
@@ -1574,7 +1452,6 @@
   {
     "city_id": 85503,
     "title_en": "Mitzpe Ramon",
-    "visited": true,
     "country_ru": "Израиль",
     "country_url": "/locations/Israel/",
     "country_en": "Israel",
@@ -1587,7 +1464,6 @@
   {
     "city_id": 85470,
     "title_en": "Tel Aviv-Yafo",
-    "visited": true,
     "country_ru": "Израиль",
     "country_url": "/locations/Israel/",
     "country_en": "Israel",
@@ -1600,7 +1476,6 @@
   {
     "city_id": 92833,
     "title_en": "Milan",
-    "visited": true,
     "country_ru": "Италия",
     "country_url": "/locations/Italy/",
     "country_en": "Italy",
@@ -1613,7 +1488,6 @@
   {
     "city_id": 97450,
     "title_en": "Amman",
-    "visited": true,
     "country_ru": "Иордания",
     "country_url": "/locations/Jordan/",
     "country_en": "Jordan",
@@ -1627,7 +1501,6 @@
     "city_id": "Dead Sea Spa Hotel - Jordan",
     "title_en": "Dead Sea Spa Hotel",
     "title_ru": "Dead Sea Spa Hotel",
-    "visited": true,
     "country_ru": "Иордания",
     "country_url": "/locations/Jordan/",
     "country_en": "Jordan",
@@ -1637,7 +1510,6 @@
   {
     "city_id": 97425,
     "title_en": "Jarash",
-    "visited": true,
     "country_ru": "Иордания",
     "country_url": "/locations/Jordan/",
     "country_en": "Jordan",
@@ -1650,7 +1522,6 @@
   {
     "city_id": 97416,
     "title_en": "Madaba",
-    "visited": true,
     "country_ru": "Иордания",
     "country_url": "/locations/Jordan/",
     "country_en": "Jordan",
@@ -1663,7 +1534,6 @@
   {
     "city_id": 151330,
     "title_en": "Petra",
-    "visited": true,
     "country_ru": "Иордания",
     "country_url": "/locations/Jordan/",
     "country_en": "Jordan",
@@ -1677,7 +1547,6 @@
     "city_id": "Amboseli National Park - Kenya",
     "title_en": "Amboseli National Park",
     "title_ru": "Amboseli National Park",
-    "visited": true,
     "country_ru": "Кения",
     "country_url": "/locations/Kenya/",
     "country_en": "Kenya",
@@ -1688,7 +1557,6 @@
     "city_id": "Giraffe Centre - Kenya",
     "title_en": "Giraffe Centre",
     "title_ru": "Giraffe Centre",
-    "visited": true,
     "country_ru": "Кения",
     "country_url": "/locations/Kenya/",
     "country_en": "Kenya",
@@ -1698,7 +1566,6 @@
   {
     "city_id": 98233,
     "title_en": "Mombasa",
-    "visited": true,
     "country_ru": "Кения",
     "country_url": "/locations/Kenya/",
     "country_en": "Kenya",
@@ -1711,7 +1578,6 @@
   {
     "city_id": 98226,
     "title_en": "Nairobi",
-    "visited": true,
     "country_ru": "Кения",
     "country_url": "/locations/Kenya/",
     "country_en": "Kenya",
@@ -1724,7 +1590,6 @@
   {
     "city_id": 98225,
     "title_en": "Naivasha",
-    "visited": true,
     "country_ru": "Кения",
     "country_url": "/locations/Kenya/",
     "country_en": "Kenya",
@@ -1737,7 +1602,6 @@
   {
     "city_id": 98224,
     "title_en": "Nakuru",
-    "visited": true,
     "country_ru": "Кения",
     "country_url": "/locations/Kenya/",
     "country_en": "Kenya",
@@ -1751,7 +1615,6 @@
     "city_id": "Oloolua Nature Trail - Kenya",
     "title_en": "Oloolua Nature Trail",
     "title_ru": "Oloolua Nature Trail",
-    "visited": true,
     "country_ru": "Кения",
     "country_url": "/locations/Kenya/",
     "country_en": "Kenya",
@@ -1761,7 +1624,6 @@
   {
     "city_id": 99077,
     "title_en": "Vilnius",
-    "visited": true,
     "country_ru": "Литва",
     "country_url": "/locations/Lithuania/",
     "country_en": "Lithuania",
@@ -1774,7 +1636,6 @@
   {
     "city_id": 100061,
     "title_en": "Budva",
-    "visited": true,
     "country_ru": "Черногория",
     "country_url": "/locations/Montenegro/",
     "country_en": "Montenegro",
@@ -1787,7 +1648,6 @@
   {
     "city_id": 100045,
     "title_en": "Dobrota",
-    "visited": true,
     "country_ru": "Черногория",
     "country_url": "/locations/Montenegro/",
     "country_en": "Montenegro",
@@ -1800,7 +1660,6 @@
   {
     "city_id": 100006,
     "title_en": "Kotor",
-    "visited": true,
     "country_ru": "Черногория",
     "country_url": "/locations/Montenegro/",
     "country_en": "Montenegro",
@@ -1813,7 +1672,6 @@
   {
     "city_id": 352644,
     "title_en": "Muo",
-    "visited": true,
     "country_ru": "Черногория",
     "country_url": "/locations/Montenegro/",
     "country_en": "Montenegro",
@@ -1826,7 +1684,6 @@
   {
     "city_id": 152559,
     "title_en": "Niksic",
-    "visited": true,
     "country_ru": "Черногория",
     "country_url": "/locations/Montenegro/",
     "country_en": "Montenegro",
@@ -1839,7 +1696,6 @@
   {
     "city_id": 99898,
     "title_en": "Zabljak",
-    "visited": true,
     "country_ru": "Черногория",
     "country_url": "/locations/Montenegro/",
     "country_en": "Montenegro",
@@ -1852,7 +1708,6 @@
   {
     "city_id": 104497,
     "title_en": "Amsterdam",
-    "visited": true,
     "country_ru": "Нидерланды",
     "country_url": "/locations/Netherlands/",
     "country_en": "Netherlands",
@@ -1865,7 +1720,6 @@
   {
     "city_id": 154661,
     "title_en": "Diemen",
-    "visited": true,
     "country_ru": "Нидерланды",
     "country_url": "/locations/Netherlands/",
     "country_en": "Netherlands",
@@ -1878,7 +1732,6 @@
   {
     "city_id": 104118,
     "title_en": "Zandvoort",
-    "visited": true,
     "country_ru": "Нидерланды",
     "country_url": "/locations/Netherlands/",
     "country_en": "Netherlands",
@@ -1891,7 +1744,6 @@
   {
     "city_id": 104766,
     "title_en": "Oslo",
-    "visited": true,
     "country_ru": "Норвегия",
     "country_url": "/locations/Norway/",
     "country_en": "Norway",
@@ -1904,7 +1756,6 @@
   {
     "city_id": 111364,
     "title_en": "Bethlehem",
-    "visited": true,
     "country_ru": "Палестинская автономия",
     "country_url": "/locations/Palestine/",
     "country_en": "Palestine",
@@ -1917,7 +1768,6 @@
   {
     "city_id": 110952,
     "title_en": "Gorzow Wielkopolski",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -1930,7 +1780,6 @@
   {
     "city_id": 110945,
     "title_en": "Gubin",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -1943,7 +1792,6 @@
   {
     "city_id": 110913,
     "title_en": "Kostrzyn nad Odra",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -1956,7 +1804,6 @@
   {
     "city_id": 110895,
     "title_en": "Legnica",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -1969,7 +1816,6 @@
   {
     "city_id": 110889,
     "title_en": "Lodz",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -1982,7 +1828,6 @@
   {
     "city_id": 110824,
     "title_en": "Poznan",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -1995,7 +1840,6 @@
   {
     "city_id": 151715,
     "title_en": "Rzepin",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -2008,7 +1852,6 @@
   {
     "city_id": 110791,
     "title_en": "Slubice",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -2021,7 +1864,6 @@
   {
     "city_id": 110771,
     "title_en": "Swiebodzice",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -2034,7 +1876,6 @@
   {
     "city_id": 150884,
     "title_en": "Szczecin",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -2047,7 +1888,6 @@
   {
     "city_id": 110583,
     "title_en": "Warsaw",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -2060,7 +1900,6 @@
   {
     "city_id": 110733,
     "title_en": "Wroclaw",
-    "visited": true,
     "country_ru": "Польша",
     "country_url": "/locations/Poland/",
     "country_en": "Poland",
@@ -2073,7 +1912,6 @@
   {
     "city_id": 117890,
     "title_en": "Belgorod",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2086,7 +1924,6 @@
   {
     "city_id": 118685,
     "title_en": "Chelyabinsk",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2099,7 +1936,6 @@
   {
     "city_id": 117689,
     "title_en": "Dmitrov",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2112,7 +1948,6 @@
   {
     "city_id": 117620,
     "title_en": "Engel's",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2125,7 +1960,6 @@
   {
     "city_id": 119072,
     "title_en": "Irkutsk",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2138,7 +1972,6 @@
   {
     "city_id": 119069,
     "title_en": "Ivolginsk",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2151,7 +1984,6 @@
   {
     "city_id": 117342,
     "title_en": "Kazan",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2164,7 +1996,6 @@
   {
     "city_id": 119039,
     "title_en": "Khuzhir",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2177,7 +2008,6 @@
   {
     "city_id": 117282,
     "title_en": "Kimry",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2190,7 +2020,6 @@
   {
     "city_id": 117246,
     "title_en": "Klin",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2203,7 +2032,6 @@
   {
     "city_id": 117048,
     "title_en": "Kursk",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2216,7 +2044,6 @@
   {
     "city_id": 116808,
     "title_en": "Moscow",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2229,7 +2056,6 @@
   {
     "city_id": 116805,
     "title_en": "Mozhaysk",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2242,7 +2068,6 @@
   {
     "city_id": 116710,
     "title_en": "Nizhniy Novgorod",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2255,7 +2080,6 @@
   {
     "city_id": 116715,
     "title_en": "Nizhniye Sergi",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2268,7 +2092,6 @@
   {
     "city_id": 116530,
     "title_en": "Pavlovsk",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2281,7 +2104,6 @@
   {
     "city_id": 116365,
     "title_en": "Pushkin",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2294,7 +2116,6 @@
   {
     "city_id": 118923,
     "title_en": "Russkiy",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2307,7 +2128,6 @@
   {
     "city_id": 116255,
     "title_en": "Saint Petersburg",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2320,7 +2140,6 @@
   {
     "city_id": 350007,
     "title_en": "Sakhyurta",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2333,7 +2152,6 @@
   {
     "city_id": 116245,
     "title_en": "Saratov",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2346,7 +2164,6 @@
   {
     "city_id": 116099,
     "title_en": "Smolensk",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2359,7 +2176,6 @@
   {
     "city_id": 116081,
     "title_en": "Solnechnogorsk",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2372,7 +2188,6 @@
   {
     "city_id": 116041,
     "title_en": "Spirovo",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2385,7 +2200,6 @@
   {
     "city_id": 115979,
     "title_en": "Stupino",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2398,7 +2212,6 @@
   {
     "city_id": 115867,
     "title_en": "Torzhok",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2411,7 +2224,6 @@
   {
     "city_id": 115837,
     "title_en": "Tula",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2424,7 +2236,6 @@
   {
     "city_id": 115827,
     "title_en": "Tver",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2437,7 +2248,6 @@
   {
     "city_id": 118855,
     "title_en": "Ulan-Ude",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2450,7 +2260,6 @@
   {
     "city_id": 116695,
     "title_en": "Velikiy Novgorod",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2463,7 +2272,6 @@
   {
     "city_id": 115678,
     "title_en": "Vladimir",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2476,7 +2284,6 @@
   {
     "city_id": 118831,
     "title_en": "Vladivostok",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2489,7 +2296,6 @@
   {
     "city_id": 149770,
     "title_en": "Volgograd",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2502,7 +2308,6 @@
   {
     "city_id": 115654,
     "title_en": "Volzhskiy",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2515,7 +2320,6 @@
   {
     "city_id": 150259,
     "title_en": "Vyshniy Volochek",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2528,7 +2332,6 @@
   {
     "city_id": 115607,
     "title_en": "Yakhroma",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2541,7 +2344,6 @@
   {
     "city_id": 115592,
     "title_en": "Yaroslavl",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2554,7 +2356,6 @@
   {
     "city_id": 118202,
     "title_en": "Yekaterinburg",
-    "visited": true,
     "country_ru": "Россия",
     "country_url": "/locations/Russia/",
     "country_en": "Russia",
@@ -2567,7 +2368,6 @@
   {
     "city_id": 152515,
     "title_en": "Ajuy",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2580,7 +2380,6 @@
   {
     "city_id": 36579,
     "title_en": "Arrecife",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2593,7 +2392,6 @@
   {
     "city_id": 41173,
     "title_en": "Barcelona",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2606,7 +2404,6 @@
   {
     "city_id": 36443,
     "title_en": "Betancuria",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2619,7 +2416,6 @@
   {
     "city_id": 152436,
     "title_en": "Corralejo",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2632,7 +2428,6 @@
   {
     "city_id": 152536,
     "title_en": "El Golfo",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2645,7 +2440,6 @@
   {
     "city_id": 162452,
     "title_en": "Fisterra",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2658,7 +2452,6 @@
   {
     "city_id": 39298,
     "title_en": "Madrid",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2671,7 +2464,6 @@
   {
     "city_id": 35672,
     "title_en": "Manacor",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2684,7 +2476,6 @@
   {
     "city_id": 162451,
     "title_en": "Mugia",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2697,7 +2488,6 @@
   {
     "city_id": 35467,
     "title_en": "Pajara",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2710,7 +2500,6 @@
   {
     "city_id": 35461,
     "title_en": "Palma",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2723,7 +2512,6 @@
   {
     "city_id": 35420,
     "title_en": "Petra",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2736,7 +2524,6 @@
   {
     "city_id": 182509,
     "title_en": "Playa Blanca",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2749,7 +2536,6 @@
   {
     "city_id": 352654,
     "title_en": "Porto Cristo",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2762,7 +2548,6 @@
   {
     "city_id": 152338,
     "title_en": "Puerto del Carmen",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2775,7 +2560,6 @@
   {
     "city_id": 35352,
     "title_en": "Puerto del Rosario",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2788,7 +2572,6 @@
   {
     "city_id": 37892,
     "title_en": "Santiago de Compostela",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2801,7 +2584,6 @@
   {
     "city_id": 35117,
     "title_en": "Teguise",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2814,7 +2596,6 @@
   {
     "city_id": 34868,
     "title_en": "Yaiza",
-    "visited": true,
     "country_ru": "Испания",
     "country_url": "/locations/Spain/",
     "country_en": "Spain",
@@ -2827,7 +2608,6 @@
   {
     "city_id": 119517,
     "title_en": "Malmoe",
-    "visited": true,
     "country_ru": "Швеция",
     "country_url": "/locations/Sweden/",
     "country_en": "Sweden",
@@ -2840,7 +2620,6 @@
   {
     "city_id": 119486,
     "title_en": "Stockholm",
-    "visited": true,
     "country_ru": "Швеция",
     "country_url": "/locations/Sweden/",
     "country_en": "Sweden",
@@ -2853,7 +2632,6 @@
   {
     "city_id": 8630,
     "title_en": "Basel",
-    "visited": true,
     "country_ru": "Швейцария",
     "country_url": "/locations/Switzerland/",
     "country_en": "Switzerland",
@@ -2866,7 +2644,6 @@
   {
     "city_id": 120585,
     "title_en": "Pattaya",
-    "visited": true,
     "country_ru": "Таиланд",
     "country_url": "/locations/Thailand/",
     "country_en": "Thailand",
@@ -2879,7 +2656,6 @@
   {
     "city_id": 121282,
     "title_en": "Antalya",
-    "visited": true,
     "country_ru": "Турция",
     "country_url": "/locations/Turkey/",
     "country_en": "Turkey",
@@ -2892,7 +2668,6 @@
   {
     "city_id": 121274,
     "title_en": "Avanos",
-    "visited": true,
     "country_ru": "Турция",
     "country_url": "/locations/Turkey/",
     "country_en": "Turkey",
@@ -2905,7 +2680,6 @@
   {
     "city_id": 150144,
     "title_en": "Goereme",
-    "visited": true,
     "country_ru": "Турция",
     "country_url": "/locations/Turkey/",
     "country_en": "Turkey",
@@ -2918,7 +2692,6 @@
   {
     "city_id": 150099,
     "title_en": "Istanbul",
-    "visited": true,
     "country_ru": "Турция",
     "country_url": "/locations/Turkey/",
     "country_en": "Turkey",
@@ -2931,7 +2704,6 @@
   {
     "city_id": 121046,
     "title_en": "Kayseri",
-    "visited": true,
     "country_ru": "Турция",
     "country_url": "/locations/Turkey/",
     "country_en": "Turkey",
@@ -2944,7 +2716,6 @@
   {
     "city_id": 150905,
     "title_en": "Balaklava",
-    "visited": true,
     "country_ru": "Украина",
     "country_url": "/locations/Ukraine/",
     "country_en": "Ukraine",
@@ -2957,7 +2728,6 @@
   {
     "city_id": 122599,
     "title_en": "Kharkiv",
-    "visited": true,
     "country_ru": "Украина",
     "country_url": "/locations/Ukraine/",
     "country_en": "Ukraine",
@@ -2970,7 +2740,6 @@
   {
     "city_id": 150429,
     "title_en": "Mirny",
-    "visited": true,
     "country_ru": "Украина",
     "country_url": "/locations/Ukraine/",
     "country_en": "Ukraine",
@@ -2983,7 +2752,6 @@
   {
     "city_id": 150301,
     "title_en": "Novyi Svit",
-    "visited": true,
     "country_ru": "Украина",
     "country_url": "/locations/Ukraine/",
     "country_en": "Ukraine",
@@ -2996,7 +2764,6 @@
   {
     "city_id": 122245,
     "title_en": "Sevastopol",
-    "visited": true,
     "country_ru": "Украина",
     "country_url": "/locations/Ukraine/",
     "country_en": "Ukraine",
@@ -3009,7 +2776,6 @@
   {
     "city_id": 122055,
     "title_en": "Yevpatoriya",
-    "visited": true,
     "country_ru": "Украина",
     "country_url": "/locations/Ukraine/",
     "country_en": "Ukraine",
@@ -3022,7 +2788,6 @@
   {
     "city_id": 77312,
     "title_en": "London",
-    "visited": true,
     "country_ru": "Великобритания",
     "country_url": "/locations/United%20Kingdom/",
     "country_en": "United Kingdom",
@@ -3035,7 +2800,6 @@
   {
     "city_id": 132203,
     "title_en": "Austin",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3048,7 +2812,6 @@
   {
     "city_id": 124067,
     "title_en": "Bal Harbour",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3061,7 +2824,6 @@
   {
     "city_id": 136420,
     "title_en": "Boston",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3074,7 +2836,6 @@
   {
     "city_id": 151882,
     "title_en": "Brooklyn",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3087,7 +2848,6 @@
   {
     "city_id": 132343,
     "title_en": "Cedar Park",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3100,7 +2860,6 @@
   {
     "city_id": 124256,
     "title_en": "Fort Lauderdale",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3113,7 +2872,6 @@
   {
     "city_id": 124395,
     "title_en": "Key West",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3126,7 +2884,6 @@
   {
     "city_id": 182352,
     "title_en": "Manhattan",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3139,7 +2896,6 @@
   {
     "city_id": 124499,
     "title_en": "Miami",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3152,7 +2908,6 @@
   {
     "city_id": 124500,
     "title_en": "Miami Beach",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3165,7 +2920,6 @@
   {
     "city_id": 140684,
     "title_en": "New York City",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3178,7 +2932,6 @@
   {
     "city_id": 124624,
     "title_en": "Pinecrest",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3191,7 +2944,6 @@
   {
     "city_id": 133167,
     "title_en": "Round Rock",
-    "visited": true,
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
@@ -3204,7 +2956,6 @@
   {
     "city_id": 148926,
     "title_en": "Bukhara",
-    "visited": true,
     "country_ru": "Узбекистан",
     "country_url": "/locations/Uzbekistan/",
     "country_en": "Uzbekistan",
@@ -3217,7 +2968,6 @@
   {
     "city_id": 148979,
     "title_en": "Jizzax",
-    "visited": true,
     "country_ru": "Узбекистан",
     "country_url": "/locations/Uzbekistan/",
     "country_en": "Uzbekistan",
@@ -3230,7 +2980,6 @@
   {
     "city_id": 148962,
     "title_en": "Navoiy",
-    "visited": true,
     "country_ru": "Узбекистан",
     "country_url": "/locations/Uzbekistan/",
     "country_en": "Uzbekistan",
@@ -3243,7 +2992,6 @@
   {
     "city_id": 148906,
     "title_en": "Qarshi",
-    "visited": true,
     "country_ru": "Узбекистан",
     "country_url": "/locations/Uzbekistan/",
     "country_en": "Uzbekistan",
@@ -3256,7 +3004,6 @@
   {
     "city_id": 148904,
     "title_en": "Samarqand",
-    "visited": true,
     "country_ru": "Узбекистан",
     "country_url": "/locations/Uzbekistan/",
     "country_en": "Uzbekistan",
@@ -3269,7 +3016,6 @@
   {
     "city_id": 148903,
     "title_en": "Shahrisabz",
-    "visited": true,
     "country_ru": "Узбекистан",
     "country_url": "/locations/Uzbekistan/",
     "country_en": "Uzbekistan",
@@ -3282,7 +3028,6 @@
   {
     "city_id": 148945,
     "title_en": "Tashkent",
-    "visited": true,
     "country_ru": "Узбекистан",
     "country_url": "/locations/Uzbekistan/",
     "country_en": "Uzbekistan",
