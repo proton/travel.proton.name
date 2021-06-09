@@ -625,6 +625,18 @@
     "x": 38.74689
   },
   {
+    "city_id": "Ambaras mountain - Ethiopia",
+    "title_en": "Ambaras mountain",
+    "visited": true,
+    "country_ru": "Эфиопия",
+    "country_url": "/locations/Ethiopia/",
+    "country_en": "Ethiopia",
+    "image_url": "",
+    "title_ru": "Ambaras mountain",
+    "y": 13.2210841,
+    "x": 38.076466
+  },
+  {
     "city_id": 41813,
     "title_en": "Bahir Dar",
     "visited": true,
@@ -636,6 +648,32 @@
     "title_ru": "Бахр-Дар",
     "y": 11.59364,
     "x": 37.39077
+  },
+  {
+    "city_id": 41802,
+    "title_en": "Debark'",
+    "visited": false,
+    "country_ru": "Эфиопия",
+    "country_url": "/locations/Ethiopia/",
+    "country_en": "Ethiopia",
+    "city_url": "/locations/Ethiopia/Debark'/",
+    "image_url": "",
+    "title_ru": "Debark'",
+    "y": 13.15611,
+    "x": 37.89806
+  },
+  {
+    "city_id": 41773,
+    "title_en": "Gondar",
+    "visited": false,
+    "country_ru": "Эфиопия",
+    "country_url": "/locations/Ethiopia/",
+    "country_en": "Ethiopia",
+    "city_url": "/locations/Ethiopia/Gonder/",
+    "image_url": "http://farm8.staticflickr.com/7325/8734862909_c1668b9ca9_s.jpg",
+    "title_ru": "Гондэр",
+    "y": 12.6,
+    "x": 37.46667
   },
   {
     "city_id": 41755,
