@@ -528,6 +528,26 @@
     "x": -69.85707
   },
   {
+    "city_id": "Abydos - Egypt",
+    "title_en": "Abydos",
+    "title_ru": "Abydos",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 26.1824832,
+    "x": 31.9217427
+  },
+  {
+    "city_id": "Alexandria - Egypt",
+    "title_en": "Alexandria",
+    "title_ru": "Alexandria",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 31.2002586,
+    "x": 29.9171865
+  },
+  {
     "city_id": 34802,
     "title_en": "Cairo",
     "country_ru": "Египет",
@@ -538,6 +558,96 @@
     "title_ru": "Каир",
     "y": 30.06263,
     "x": 31.24967
+  },
+  {
+    "city_id": "Dahshur - Egypt",
+    "title_en": "Dahshur",
+    "title_ru": "Dahshur",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 29.7972623,
+    "x": 31.2431979
+  },
+  {
+    "city_id": "Dandarah - Egypt",
+    "title_en": "Dandarah",
+    "title_ru": "Dandarah",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 26.1673505,
+    "x": 32.6566775
+  },
+  {
+    "city_id": "Giza - Egypt",
+    "title_en": "Giza",
+    "title_ru": "Giza",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 30.0131202,
+    "x": 31.2087074
+  },
+  {
+    "city_id": "Hurghada - Egypt",
+    "title_en": "Hurghada",
+    "title_ru": "Hurghada",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 27.2579325,
+    "x": 33.811479
+  },
+  {
+    "city_id": "Jazīrat Abū Rimāthī - Egypt",
+    "title_en": "Jazīrat Abū Rimāthī",
+    "title_ru": "Jazīrat Abū Rimāthī",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 27.1654983,
+    "x": 33.9811233
+  },
+  {
+    "city_id": "Karnak - Egypt",
+    "title_en": "Karnak",
+    "title_ru": "Karnak",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 25.718772,
+    "x": 32.657239
+  },
+  {
+    "city_id": "Luxor - Egypt",
+    "title_en": "Luxor",
+    "title_ru": "Luxor",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 25.6873895,
+    "x": 32.6395675
+  },
+  {
+    "city_id": "Mit-Rahineh - Egypt",
+    "title_en": "Mit-Rahineh",
+    "title_ru": "Mit-Rahineh",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 29.8567585,
+    "x": 31.2527514
+  },
+  {
+    "city_id": "Saqqarah - Egypt",
+    "title_en": "Saqqarah",
+    "title_ru": "Saqqarah",
+    "country_ru": "Египет",
+    "country_url": "/locations/Egypt/",
+    "country_en": "Egypt",
+    "y": 29.8500436,
+    "x": 31.2165524
   },
   {
     "city_id": 34732,
