@@ -2068,6 +2068,16 @@
     "x": 46.10528
   },
   {
+    "city_id": "Ethnomir - Russia",
+    "title_en": "Ethnomir",
+    "title_ru": "Этномир",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 55.2445718,
+    "x": 36.4303804
+  },
+  {
     "city_id": 119072,
     "title_en": "Irkutsk",
     "country_ru": "Россия",
@@ -2090,6 +2100,16 @@
     "title_ru": "Иволгинск",
     "y": 51.74919,
     "x": 107.28374
+  },
+  {
+    "city_id": "Kaluga - Russia",
+    "title_en": "Kaluga",
+    "title_ru": "Калуга",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 54.5135539,
+    "x": 36.2636493
   },
   {
     "city_id": 117342,
@@ -2174,6 +2194,16 @@
     "title_ru": "Можайск",
     "y": 55.50194,
     "x": 36.02722
+  },
+  {
+    "city_id": "Nikola-Lenivets - Russia",
+    "title_en": "Nikola-Lenivets",
+    "title_ru": "Никола-Ленивец",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 54.7518584,
+    "x": 35.5997644
   },
   {
     "city_id": 116710,
