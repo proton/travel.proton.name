@@ -2112,6 +2112,16 @@
     "x": 36.2636493
   },
   {
+    "city_id": "Kalyazin - Russia",
+    "title_en": "Kalyazin",
+    "title_ru": "Калязин",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 57.2409625,
+    "x": 37.8280952
+  },
+  {
     "city_id": 117342,
     "title_en": "Kazan",
     "country_ru": "Россия",
@@ -2384,6 +2394,16 @@
     "title_ru": "Тверь",
     "y": 56.85836,
     "x": 35.90057
+  },
+  {
+    "city_id": "Uglich - Russia",
+    "title_en": "Uglich",
+    "title_ru": "Углич",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 57.5238971,
+    "x": 38.3217932
   },
   {
     "city_id": 118855,
