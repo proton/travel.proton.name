@@ -2056,6 +2056,17 @@
     "x": 37.52041
   },
   {
+    "city_id": "Dunayevshchina - Russia",
+    "title_en": "Dunayevshchina",
+    "title_ru": "Дунаевщина",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 57.6853389,
+    "x": 32.9711616,
+    "comment": "Большая Валдайская тропа"
+  },
+  {
     "city_id": 117620,
     "title_en": "Engel's",
     "country_ru": "Россия",
@@ -2276,6 +2287,17 @@
     "x": 131.8601
   },
   {
+    "city_id": "Ryzhokha - Russia",
+    "title_en": "Ryzhokha",
+    "title_ru": "Рыжоха",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 57.7876376,
+    "x": 32.9793472,
+    "comment": "Большая Валдайская тропа"
+  },
+  {
     "city_id": 116255,
     "title_en": "Saint Petersburg",
     "country_ru": "Россия",
@@ -2416,6 +2438,16 @@
     "title_ru": "Улан-Удэ",
     "y": 51.82721,
     "x": 107.60627
+  },
+  {
+    "city_id": "Valday - Russia",
+    "title_en": "Valday",
+    "title_ru": "Валдай",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 57.9801298,
+    "x": 33.2458523
   },
   {
     "city_id": 116695,
