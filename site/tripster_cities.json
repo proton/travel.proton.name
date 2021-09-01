@@ -2181,6 +2181,16 @@
     "x": 36.73333
   },
   {
+    "city_id": "Kronstadt - Russia",
+    "title_en": "Kronstadt",
+    "title_ru": "Кронштадт",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 59.9957912,
+    "x": 29.7652791
+  },
+  {
     "city_id": 117048,
     "title_en": "Kursk",
     "country_ru": "Россия",
@@ -2508,6 +2518,16 @@
     "title_ru": "Волжский",
     "y": 48.78583,
     "x": 44.77973
+  },
+  {
+    "city_id": "Vyborg - Russia",
+    "title_en": "Vyborg",
+    "title_ru": "Выборг",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 60.7095716,
+    "x": 28.7489795
   },
   {
     "city_id": 150259,
