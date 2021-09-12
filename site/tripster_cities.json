@@ -2032,6 +2032,16 @@
     "x": 36.58015
   },
   {
+    "city_id": "Cheboksary - Russia",
+    "title_en": "Cheboksary",
+    "title_ru": "Чебоксары",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 56.1166832,
+    "x": 47.2628271
+  },
+  {
     "city_id": 118685,
     "title_en": "Chelyabinsk",
     "country_ru": "Россия",
@@ -2576,6 +2586,16 @@
     "title_ru": "Екатеринбург",
     "y": 56.8519,
     "x": 60.6122
+  },
+  {
+    "city_id": "Yoshkar-Ola - Russia",
+    "title_en": "Yoshkar-Ola",
+    "title_ru": "Йошкар-Ола",
+    "country_ru": "Россия",
+    "country_url": "/locations/Russia/",
+    "country_en": "Russia",
+    "y": 56.6417489,
+    "x": 47.889322
   },
   {
     "city_id": 152515,
