@@ -8,10 +8,42 @@
       html, body {
         margin: 0;
         padding: 0;
+        font-family: Helvetica;
       }
       .map {
         width: 100vw;
         height: 100vh;
+      }
+
+      a {
+        color: #434343;
+      }
+      a:hover {
+        color:#1055cb;
+      }
+      .other-web-sites {
+/*         width: 100%; */
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        position: fixed;
+        bottom: 0;
+        font-size: 14px;
+        background: white;
+        
+        opacity: 0.5;
+        z-index: 1000;
+      }
+      .other-web-sites > li {
+        display: inline-block;
+        padding: 10px 10px;
+        background: white;
+      }
+      .other-web-sites > li.current {
+        background: #eee;
+      }
+      .other-web-sites a {
+        text-decoration: none;
       }
     </style>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -23,6 +55,10 @@
   </head>
   <body>
     <div class="map" id="map"></div>
+    <ul class="other-web-sites">
+        <li><a href="https://proton.name">proton.name</a></li>
+        <li class="current"><a href="https://travel.proton.name">travel.proton.name</a></li>
+    </ul>
     <script type="text/javascript" src="/code.js"></script>
   </body>
 </html>
