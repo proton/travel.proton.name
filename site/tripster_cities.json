@@ -3090,6 +3090,18 @@
     "x": -97.82029
   },
   {
+    "city_id": "Chicago - United States",
+    "title_en": "Chicago",
+    "country_ru": "США",
+    "country_url": "/locations/United%20States/",
+    "country_en": "United States",
+    "city_url": "/locations/United%20States/Austin/132203/",
+    "image_url": "",
+    "title_ru": "Чикаго",
+    "y": 41.8778697,
+    "x": -87.6299877
+  },
+  {
     "city_id": 124256,
     "title_en": "Fort Lauderdale",
     "country_ru": "США",
