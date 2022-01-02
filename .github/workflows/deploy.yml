@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - actions
 
 env:
   DOCKER_IMAGE: ${{github.repository}}:latest
