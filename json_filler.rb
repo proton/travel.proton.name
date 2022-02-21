@@ -12,7 +12,7 @@ tripster_files.each do |file_path|
 end
 
 arr = arr
-  .map { |point| point.delete_if { |k,v| %w[want visited been_count been_count_msg].include? k } }
+  .map { |point| point.delete_if { |k,v| %w[want visited been_count been_count_msg country_url city_url].include? k } }
   .uniq { |point| point['city_id'] }
   .sort_by { |point| %w[country_en title_en].map { |k| point[k] } }
 
