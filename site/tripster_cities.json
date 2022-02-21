@@ -3030,6 +3030,17 @@
     "x": -0.12574
   },
   {
+    "city_id": "Alpine Valley Resort - United States",
+    "title_en": "Alpine Valley Resort",
+    "country_ru": "США",
+    "country_url": "/locations/United%20States/",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Alpine Valley Resort",
+    "y": 42.7357968,
+    "x": -88.4281867
+  },
+  {
     "city_id": 132203,
     "title_en": "Austin",
     "country_ru": "США",
@@ -3078,6 +3089,17 @@
     "x": -73.94958
   },
   {
+    "city_id": "Burlington - United States",
+    "title_en": "Burlington",
+    "country_ru": "США",
+    "country_url": "/locations/United%20States/",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Берлингтон",
+    "y": 42.6778976,
+    "x": -88.2763697
+  },
+  {
     "city_id": 132343,
     "title_en": "Cedar Park",
     "country_ru": "США",
@@ -3095,7 +3117,6 @@
     "country_ru": "США",
     "country_url": "/locations/United%20States/",
     "country_en": "United States",
-    "city_url": "/locations/United%20States/Austin/132203/",
     "image_url": "",
     "title_ru": "Чикаго",
     "y": 41.8778697,
