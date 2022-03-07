@@ -23,14 +23,13 @@ h =
     x: coords[1]
   }
 
+p result
 p h
 
 cities_path = "site/tripster_cities.json"
 
 arr = JSON.parse(File.open(cities_path).read, symbolize_names: true)
 arr << h
-
-p arr
 
 arr = arr
   .map { |point| point.delete_if { |k,v| %i[want visited been_count been_count_msg country_url city_url].include? k } }
