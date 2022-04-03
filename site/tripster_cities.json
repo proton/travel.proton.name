@@ -2739,6 +2739,26 @@
     "x": -97.6789
   },
   {
+    "city_id": 297893072,
+    "title_en": "Schaumburg",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Schaumburg",
+    "y": 42.0328846,
+    "x": -88.0836292
+  },
+  {
+    "city_id": 199110506,
+    "title_en": "Woodstock",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Woodstock",
+    "y": 42.3147519,
+    "x": -88.4473852
+  },
+  {
     "city_id": 148926,
     "title_en": "Bukhara",
     "country_ru": "Узбекистан",
