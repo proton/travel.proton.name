@@ -2639,6 +2639,16 @@
     "x": -80.14338
   },
   {
+    "city_id": 317653626,
+    "title_en": "Hope",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Hope",
+    "y": 33.6672132,
+    "x": -93.5914433
+  },
+  {
     "city_id": 124395,
     "title_en": "Key West",
     "country_ru": "США",
@@ -2747,6 +2757,26 @@
     "title_ru": "Schaumburg",
     "y": 42.0328846,
     "x": -88.0836292
+  },
+  {
+    "city_id": 314844197,
+    "title_en": "Springfield",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Springfield",
+    "y": 39.78171,
+    "x": -89.6500187
+  },
+  {
+    "city_id": 263382713,
+    "title_en": "Waco",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Waco",
+    "y": 31.5496458,
+    "x": -97.1467801
   },
   {
     "city_id": 199110506,
