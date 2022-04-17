@@ -2589,6 +2589,16 @@
     "x": -71.05977
   },
   {
+    "city_id": 296896624,
+    "title_en": "Breaux+Bridge",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Breaux+Bridge",
+    "y": 30.2733057,
+    "x": -91.8998522
+  },
+  {
     "city_id": 151882,
     "title_en": "Brooklyn",
     "country_ru": "США",
@@ -2637,6 +2647,16 @@
     "title_ru": "Форт-Лодердейл",
     "y": 26.12231,
     "x": -80.14338
+  },
+  {
+    "city_id": 305594409,
+    "title_en": "Holly+Beach",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Holly+Beach",
+    "y": 29.7698446,
+    "x": -93.4594251
   },
   {
     "city_id": 317653626,
@@ -2709,6 +2729,16 @@
     "x": -88.1496073
   },
   {
+    "city_id": 2822210,
+    "title_en": "Nederland",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Nederland",
+    "y": 29.9742508,
+    "x": -93.9927322
+  },
+  {
     "city_id": 140684,
     "title_en": "New York City",
     "country_ru": "США",
@@ -2717,6 +2747,16 @@
     "title_ru": "Нью-Йорк",
     "y": 40.71427,
     "x": -74.00597
+  },
+  {
+    "city_id": 41952872,
+    "title_en": "New+Orleans",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New+Orleans",
+    "y": 29.9516974,
+    "x": -90.0721686
   },
   {
     "city_id": "Niles - United States",
