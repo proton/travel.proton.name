@@ -190,6 +190,66 @@
     "x": 23.32415
   },
   {
+    "city_id": 47805927,
+    "title_en": "Leamington",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Leamington",
+    "y": 42.055228,
+    "x": -82.5996506
+  },
+  {
+    "city_id": 13475665,
+    "title_en": "London",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "London",
+    "y": 42.982328,
+    "x": -81.2581067
+  },
+  {
+    "city_id": 42603362,
+    "title_en": "Niagara+Falls",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Niagara+Falls",
+    "y": 43.0885426,
+    "x": -79.0828669
+  },
+  {
+    "city_id": 283285340,
+    "title_en": "Point+Pelee+National+Park",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Point+Pelee+National+Park",
+    "y": 41.9435335,
+    "x": -82.4866641
+  },
+  {
+    "city_id": 96013038,
+    "title_en": "Toronto",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Toronto",
+    "y": 43.6554131,
+    "x": -79.3819438
+  },
+  {
+    "city_id": 79172083,
+    "title_en": "Vaughan",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Vaughan",
+    "y": 43.8275653,
+    "x": -79.5514558
+  },
+  {
     "city_id": 83550,
     "title_en": "Skradin",
     "country_ru": "Хорватия",
@@ -2619,6 +2679,16 @@
     "x": -73.94958
   },
   {
+    "city_id": 85228856,
+    "title_en": "Buffalo",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Buffalo",
+    "y": 42.8862599,
+    "x": -78.8768864
+  },
+  {
     "city_id": "Burlington - United States",
     "title_en": "Burlington",
     "country_ru": "США",
@@ -2649,6 +2719,26 @@
     "x": -87.6299877
   },
   {
+    "city_id": 122578676,
+    "title_en": "Cleveland",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Cleveland",
+    "y": 41.505416,
+    "x": -81.6939321
+  },
+  {
+    "city_id": 295576723,
+    "title_en": "Detroit",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Detroit",
+    "y": 42.3526897,
+    "x": -83.169244
+  },
+  {
     "city_id": 124256,
     "title_en": "Fort Lauderdale",
     "country_ru": "США",
@@ -2657,6 +2747,36 @@
     "title_ru": "Форт-Лодердейл",
     "y": 26.12231,
     "x": -80.14338
+  },
+  {
+    "city_id": 114647516,
+    "title_en": "Goat+Island",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Goat+Island",
+    "y": 43.0810384,
+    "x": -79.0707769
+  },
+  {
+    "city_id": 311196592,
+    "title_en": "Grand+Rapids",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Grand+Rapids",
+    "y": 42.956336,
+    "x": -85.7318459
+  },
+  {
+    "city_id": 183005698,
+    "title_en": "Hickory+Corners",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Hickory+Corners",
+    "y": 42.4400111,
+    "x": -85.3777397
   },
   {
     "city_id": 305594409,
@@ -2677,6 +2797,16 @@
     "title_ru": "Hope",
     "y": 33.6672132,
     "x": -93.5914433
+  },
+  {
+    "city_id": 267963288,
+    "title_en": "Indiana+Dunes+State+Park",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Indiana+Dunes+State+Park",
+    "y": 41.6633853,
+    "x": -87.0592806
   },
   {
     "city_id": 124395,
@@ -2759,6 +2889,16 @@
     "x": -74.00597
   },
   {
+    "city_id": 2248215,
+    "title_en": "New+Buffalo",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New+Buffalo",
+    "y": 41.7911481,
+    "x": -86.7510311
+  },
+  {
     "city_id": 41952872,
     "title_en": "New+Orleans",
     "country_ru": "United States",
@@ -2787,6 +2927,16 @@
     "title_ru": "Pinecrest",
     "y": 25.66705,
     "x": -80.30811
+  },
+  {
+    "city_id": 169173988,
+    "title_en": "Presque+Isle+State+Park",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Presque+Isle+State+Park",
+    "y": 42.1645327,
+    "x": -80.1104832
   },
   {
     "city_id": 133167,
@@ -2819,6 +2969,16 @@
     "x": -89.6500187
   },
   {
+    "city_id": 282306076,
+    "title_en": "St+Joseph",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "St+Joseph",
+    "y": 42.0978705,
+    "x": -86.5239049
+  },
+  {
     "city_id": 263382713,
     "title_en": "Waco",
     "country_ru": "United States",
@@ -2847,6 +3007,16 @@
     "title_ru": "Woodstock",
     "y": 42.3147519,
     "x": -88.4473852
+  },
+  {
+    "city_id": 228849452,
+    "title_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Wyoming",
+    "y": 42.8963646,
+    "x": -85.7467247
   },
   {
     "city_id": 148926,
