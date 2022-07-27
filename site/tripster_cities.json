@@ -190,6 +190,26 @@
     "x": 23.32415
   },
   {
+    "city_id": 114518688,
+    "title_en": "Cloyne",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Cloyne",
+    "y": 44.8178735,
+    "x": -77.1942759
+  },
+  {
+    "city_id": 8588010,
+    "title_en": "Elora",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Elora",
+    "y": 43.6844672,
+    "x": -80.4295257
+  },
+  {
     "city_id": 47805927,
     "title_en": "Leamington",
     "country_ru": "Canada",
@@ -220,6 +240,16 @@
     "x": -79.0828669
   },
   {
+    "city_id": 34454571,
+    "title_en": "Peterborough",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Peterborough",
+    "y": 44.3075379,
+    "x": -78.3571838
+  },
+  {
     "city_id": 283285340,
     "title_en": "Point+Pelee+National+Park",
     "country_ru": "Canada",
@@ -228,6 +258,36 @@
     "title_ru": "Point+Pelee+National+Park",
     "y": 41.9435335,
     "x": -82.4866641
+  },
+  {
+    "city_id": 128177830,
+    "title_en": "Sainte-Th%C3%A9r%C3%A8se-de-la-Gatineau",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Sainte-Th%C3%A9r%C3%A8se-de-la-Gatineau",
+    "y": 46.3026675,
+    "x": -75.8853847
+  },
+  {
+    "city_id": 15244519,
+    "title_en": "Stonyridge",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Stonyridge",
+    "y": 44.5926931,
+    "x": -78.0387108
+  },
+  {
+    "city_id": 257529484,
+    "title_en": "Tilbury",
+    "country_ru": "Canada",
+    "country_en": "Canada",
+    "image_url": "",
+    "title_ru": "Tilbury",
+    "y": 42.2629667,
+    "x": -82.4469062
   },
   {
     "city_id": 96013038,
@@ -2747,6 +2807,16 @@
     "title_ru": "Форт-Лодердейл",
     "y": 26.12231,
     "x": -80.14338
+  },
+  {
+    "city_id": 318887014,
+    "title_en": "Frankenmuth",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Frankenmuth",
+    "y": 43.3305342,
+    "x": -83.7524696
   },
   {
     "city_id": 114647516,
