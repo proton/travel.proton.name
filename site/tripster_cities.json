@@ -2679,6 +2679,26 @@
     "x": -88.4281867
   },
   {
+    "city_id": 336546375,
+    "title_en": "Ambler",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Ambler",
+    "y": 40.1567081,
+    "x": -75.2308045
+  },
+  {
+    "city_id": 294481742,
+    "title_en": "Atlantic+City",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Atlantic+City",
+    "y": 39.3766057,
+    "x": -74.4878423
+  },
+  {
     "city_id": 132203,
     "title_en": "Austin",
     "country_ru": "США",
@@ -2697,6 +2717,16 @@
     "title_ru": "Bal Harbour",
     "y": 25.89176,
     "x": -80.12699
+  },
+  {
+    "city_id": 170211409,
+    "title_en": "Baltimore",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Baltimore",
+    "y": 39.2846854,
+    "x": -76.6905362
   },
   {
     "city_id": 336865772,
@@ -2839,6 +2869,16 @@
     "x": -85.7318459
   },
   {
+    "city_id": 78676003,
+    "title_en": "Hamilton+Township",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Hamilton+Township",
+    "y": 40.2038518,
+    "x": -74.7403459
+  },
+  {
     "city_id": 147860116,
     "title_en": "Hammond",
     "country_ru": "United States",
@@ -2897,6 +2937,16 @@
     "title_ru": "Ки-Уэст",
     "y": 24.55524,
     "x": -81.78163
+  },
+  {
+    "city_id": 96658799,
+    "title_en": "Lambertville",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Lambertville",
+    "y": 40.3703837,
+    "x": -74.9508388
   },
   {
     "city_id": 75156805,
@@ -2979,6 +3029,26 @@
     "x": -86.7510311
   },
   {
+    "city_id": 308543726,
+    "title_en": "New+Castle",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New+Castle",
+    "y": 39.6716247,
+    "x": -75.5873305
+  },
+  {
+    "city_id": 297070716,
+    "title_en": "New+Hope",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New+Hope",
+    "y": 40.3616942,
+    "x": -74.9658173
+  },
+  {
     "city_id": 41952872,
     "title_en": "New+Orleans",
     "country_ru": "United States",
@@ -2999,6 +3069,36 @@
     "x": -87.8027698
   },
   {
+    "city_id": 126599329,
+    "title_en": "Ocean+City",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Ocean+City",
+    "y": 39.2605068,
+    "x": -74.6380517
+  },
+  {
+    "city_id": 171208057,
+    "title_en": "Perrysburg",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Perrysburg",
+    "y": 41.5355682,
+    "x": -83.6786918
+  },
+  {
+    "city_id": 104423915,
+    "title_en": "Philadelphia",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Philadelphia",
+    "y": 40.0024137,
+    "x": -75.2581103
+  },
+  {
     "city_id": 124624,
     "title_en": "Pinecrest",
     "country_ru": "США",
@@ -3009,6 +3109,16 @@
     "x": -80.30811
   },
   {
+    "city_id": 194452262,
+    "title_en": "Pittsburgh",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Pittsburgh",
+    "y": 40.4313473,
+    "x": -80.0505399
+  },
+  {
     "city_id": 169173988,
     "title_en": "Presque+Isle+State+Park",
     "country_ru": "United States",
@@ -3017,6 +3127,16 @@
     "title_ru": "Presque+Isle+State+Park",
     "y": 42.1645327,
     "x": -80.1104832
+  },
+  {
+    "city_id": 335324498,
+    "title_en": "Princeton",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Princeton",
+    "y": 40.348308,
+    "x": -74.7048618
   },
   {
     "city_id": 133167,
@@ -3039,6 +3159,16 @@
     "x": -88.0836292
   },
   {
+    "city_id": 314185124,
+    "title_en": "Smithville",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Smithville",
+    "y": 39.4946861,
+    "x": -74.4631618
+  },
+  {
     "city_id": 314844197,
     "title_en": "Springfield",
     "country_ru": "United States",
@@ -3059,6 +3189,16 @@
     "x": -86.5239049
   },
   {
+    "city_id": 2926829,
+    "title_en": "Toledo",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Toledo",
+    "y": 41.6565337,
+    "x": -83.6442955
+  },
+  {
     "city_id": 263382713,
     "title_en": "Waco",
     "country_ru": "United States",
@@ -3069,6 +3209,16 @@
     "x": -97.1467801
   },
   {
+    "city_id": 310246301,
+    "title_en": "Washington",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Washington",
+    "y": 38.8937336,
+    "x": -77.0846154
+  },
+  {
     "city_id": 316773685,
     "title_en": "Waukegan",
     "country_ru": "United States",
@@ -3077,6 +3227,16 @@
     "title_ru": "Waukegan",
     "y": 42.3633043,
     "x": -87.844604
+  },
+  {
+    "city_id": 308558649,
+    "title_en": "Wilmington",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Wilmington",
+    "y": 39.7298967,
+    "x": -75.5645038
   },
   {
     "city_id": 199110506,
