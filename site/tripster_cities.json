@@ -2829,6 +2829,16 @@
     "x": -83.169244
   },
   {
+    "city_id": 141469223,
+    "title_en": "Evanston",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Evanston",
+    "y": 42.0452823,
+    "x": -87.6882408
+  },
+  {
     "city_id": 124256,
     "title_en": "Fort Lauderdale",
     "country_ru": "США",
@@ -3157,6 +3167,16 @@
     "title_ru": "Schaumburg",
     "y": 42.0328846,
     "x": -88.0836292
+  },
+  {
+    "city_id": 115137475,
+    "title_en": "Skokie",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Skokie",
+    "y": 42.0341286,
+    "x": -87.7623166
   },
   {
     "city_id": 314185124,
