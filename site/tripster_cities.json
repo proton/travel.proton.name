@@ -1463,6 +1463,26 @@
     "x": 9.18951
   },
   {
+    "city_id": 40253408,
+    "title_en": "Nine+Mile",
+    "country_ru": "Jamaica",
+    "country_en": "Jamaica",
+    "image_url": "",
+    "title_ru": "Nine+Mile",
+    "y": 18.2974036,
+    "x": -77.2789347
+  },
+  {
+    "city_id": 58615211,
+    "title_en": "Ocho+Rios",
+    "country_ru": "Jamaica",
+    "country_en": "Jamaica",
+    "image_url": "",
+    "title_ru": "Ocho+Rios",
+    "y": 18.4068706,
+    "x": -77.1044627
+  },
+  {
     "city_id": 97450,
     "title_en": "Amman",
     "country_ru": "Иордания",
@@ -1587,6 +1607,16 @@
     "title_ru": "Вильнюс",
     "y": 54.68916,
     "x": 25.2798
+  },
+  {
+    "city_id": 118645949,
+    "title_en": "Chich%C3%A9n-Itz%C3%A1",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Chich%C3%A9n-Itz%C3%A1",
+    "y": 20.6791102,
+    "x": -88.568467
   },
   {
     "city_id": 100061,
@@ -3217,6 +3247,26 @@
     "title_ru": "St+Joseph",
     "y": 42.0978705,
     "x": -86.5239049
+  },
+  {
+    "city_id": 179988783,
+    "title_en": "St.+Petersburg",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "St.+Petersburg",
+    "y": 27.7679194,
+    "x": -82.6409723
+  },
+  {
+    "city_id": 332233630,
+    "title_en": "Tampa",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Tampa",
+    "y": 27.9518093,
+    "x": -82.4567879
   },
   {
     "city_id": 2926829,
