@@ -231,11 +231,11 @@
   },
   {
     "city_id": 42603362,
-    "title_en": "Niagara+Falls",
+    "title_en": "Niagara Falls",
     "country_ru": "Canada",
     "country_en": "Canada",
     "image_url": "",
-    "title_ru": "Niagara+Falls",
+    "title_ru": "Niagara Falls",
     "y": 43.0885426,
     "x": -79.0828669
   },
@@ -251,11 +251,11 @@
   },
   {
     "city_id": 283285340,
-    "title_en": "Point+Pelee+National+Park",
+    "title_en": "Point Pelee National Park",
     "country_ru": "Canada",
     "country_en": "Canada",
     "image_url": "",
-    "title_ru": "Point+Pelee+National+Park",
+    "title_ru": "Point Pelee National Park",
     "y": 41.9435335,
     "x": -82.4866641
   },
@@ -1464,21 +1464,21 @@
   },
   {
     "city_id": 40253408,
-    "title_en": "Nine+Mile",
+    "title_en": "Nine Mile",
     "country_ru": "Jamaica",
     "country_en": "Jamaica",
     "image_url": "",
-    "title_ru": "Nine+Mile",
+    "title_ru": "Nine Mile",
     "y": 18.2974036,
     "x": -77.2789347
   },
   {
     "city_id": 58615211,
-    "title_en": "Ocho+Rios",
+    "title_en": "Ocho Rios",
     "country_ru": "Jamaica",
     "country_en": "Jamaica",
     "image_url": "",
-    "title_ru": "Ocho+Rios",
+    "title_ru": "Ocho Rios",
     "y": 18.4068706,
     "x": -77.1044627
   },
@@ -2720,11 +2720,11 @@
   },
   {
     "city_id": 294481742,
-    "title_en": "Atlantic+City",
+    "title_en": "Atlantic City",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Atlantic+City",
+    "title_ru": "Atlantic City",
     "y": 39.3766057,
     "x": -74.4878423
   },
@@ -2769,6 +2769,16 @@
     "x": -90.1243565
   },
   {
+    "city_id": 313750585,
+    "title_en": "Bedford Park",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Bedford Park",
+    "y": 41.7709951,
+    "x": -87.8175765
+  },
+  {
     "city_id": 136420,
     "title_en": "Boston",
     "country_ru": "США",
@@ -2780,11 +2790,11 @@
   },
   {
     "city_id": 296896624,
-    "title_en": "Breaux+Bridge",
+    "title_en": "Breaux Bridge",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Breaux+Bridge",
+    "title_ru": "Breaux Bridge",
     "y": 30.2733057,
     "x": -91.8998522
   },
@@ -2890,31 +2900,31 @@
   },
   {
     "city_id": 114647516,
-    "title_en": "Goat+Island",
+    "title_en": "Goat Island",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Goat+Island",
+    "title_ru": "Goat Island",
     "y": 43.0810384,
     "x": -79.0707769
   },
   {
     "city_id": 311196592,
-    "title_en": "Grand+Rapids",
+    "title_en": "Grand Rapids",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Grand+Rapids",
+    "title_ru": "Grand Rapids",
     "y": 42.956336,
     "x": -85.7318459
   },
   {
     "city_id": 78676003,
-    "title_en": "Hamilton+Township",
+    "title_en": "Hamilton Township",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Hamilton+Township",
+    "title_ru": "Hamilton Township",
     "y": 40.2038518,
     "x": -74.7403459
   },
@@ -2930,21 +2940,21 @@
   },
   {
     "city_id": 183005698,
-    "title_en": "Hickory+Corners",
+    "title_en": "Hickory Corners",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Hickory+Corners",
+    "title_ru": "Hickory Corners",
     "y": 42.4400111,
     "x": -85.3777397
   },
   {
     "city_id": 305594409,
-    "title_en": "Holly+Beach",
+    "title_en": "Holly Beach",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Holly+Beach",
+    "title_ru": "Holly Beach",
     "y": 29.7698446,
     "x": -93.4594251
   },
@@ -2960,11 +2970,11 @@
   },
   {
     "city_id": 267963288,
-    "title_en": "Indiana+Dunes+State+Park",
+    "title_en": "Indiana Dunes State Park",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Indiana+Dunes+State+Park",
+    "title_ru": "Indiana Dunes State Park",
     "y": 41.6633853,
     "x": -87.0592806
   },
@@ -3059,6 +3069,46 @@
     "x": -93.9927322
   },
   {
+    "city_id": 2248215,
+    "title_en": "New Buffalo",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New Buffalo",
+    "y": 41.7911481,
+    "x": -86.7510311
+  },
+  {
+    "city_id": 308543726,
+    "title_en": "New Castle",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New Castle",
+    "y": 39.6716247,
+    "x": -75.5873305
+  },
+  {
+    "city_id": 297070716,
+    "title_en": "New Hope",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New Hope",
+    "y": 40.3616942,
+    "x": -74.9658173
+  },
+  {
+    "city_id": 41952872,
+    "title_en": "New Orleans",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New Orleans",
+    "y": 29.9516974,
+    "x": -90.0721686
+  },
+  {
     "city_id": 140684,
     "title_en": "New York City",
     "country_ru": "США",
@@ -3067,46 +3117,6 @@
     "title_ru": "Нью-Йорк",
     "y": 40.71427,
     "x": -74.00597
-  },
-  {
-    "city_id": 2248215,
-    "title_en": "New+Buffalo",
-    "country_ru": "United States",
-    "country_en": "United States",
-    "image_url": "",
-    "title_ru": "New+Buffalo",
-    "y": 41.7911481,
-    "x": -86.7510311
-  },
-  {
-    "city_id": 308543726,
-    "title_en": "New+Castle",
-    "country_ru": "United States",
-    "country_en": "United States",
-    "image_url": "",
-    "title_ru": "New+Castle",
-    "y": 39.6716247,
-    "x": -75.5873305
-  },
-  {
-    "city_id": 297070716,
-    "title_en": "New+Hope",
-    "country_ru": "United States",
-    "country_en": "United States",
-    "image_url": "",
-    "title_ru": "New+Hope",
-    "y": 40.3616942,
-    "x": -74.9658173
-  },
-  {
-    "city_id": 41952872,
-    "title_en": "New+Orleans",
-    "country_ru": "United States",
-    "country_en": "United States",
-    "image_url": "",
-    "title_ru": "New+Orleans",
-    "y": 29.9516974,
-    "x": -90.0721686
   },
   {
     "city_id": "Niles - United States",
@@ -3120,11 +3130,11 @@
   },
   {
     "city_id": 126599329,
-    "title_en": "Ocean+City",
+    "title_en": "Ocean City",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Ocean+City",
+    "title_ru": "Ocean City",
     "y": 39.2605068,
     "x": -74.6380517
   },
@@ -3170,11 +3180,11 @@
   },
   {
     "city_id": 169173988,
-    "title_en": "Presque+Isle+State+Park",
+    "title_en": "Presque Isle State Park",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "Presque+Isle+State+Park",
+    "title_ru": "Presque Isle State Park",
     "y": 42.1645327,
     "x": -80.1104832
   },
@@ -3240,21 +3250,21 @@
   },
   {
     "city_id": 282306076,
-    "title_en": "St+Joseph",
+    "title_en": "St Joseph",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "St+Joseph",
+    "title_ru": "St Joseph",
     "y": 42.0978705,
     "x": -86.5239049
   },
   {
     "city_id": 179988783,
-    "title_en": "St.+Petersburg",
+    "title_en": "St. Petersburg",
     "country_ru": "United States",
     "country_en": "United States",
     "image_url": "",
-    "title_ru": "St.+Petersburg",
+    "title_ru": "St. Petersburg",
     "y": 27.7679194,
     "x": -82.6409723
   },

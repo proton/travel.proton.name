@@ -33,6 +33,7 @@ arr << h
 
 arr = arr
   .map { |point| point.delete_if { |k,v| %i[want visited been_count been_count_msg country_url city_url].include? k } }
+  .map { |point| %i[title_en title_ru].each { |k| point[k] = point[k].gsub("+", " ") if point[k] }; point }
   .uniq { |point| point[:city_id] }
   .sort_by { |point| %i[country_en title_en].map { |k| point[k] } }
 
