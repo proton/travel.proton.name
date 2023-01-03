@@ -2699,6 +2699,16 @@
     "x": -0.12574
   },
   {
+    "city_id": 160206891,
+    "title_en": "Abrams Falls",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Abrams Falls",
+    "y": 35.6084182,
+    "x": -83.8883768
+  },
+  {
     "city_id": "Alpine Valley Resort - United States",
     "title_en": "Alpine Valley Resort",
     "country_ru": "США",
@@ -2717,6 +2727,16 @@
     "title_ru": "Ambler",
     "y": 40.1567081,
     "x": -75.2308045
+  },
+  {
+    "city_id": 171892403,
+    "title_en": "Atlanta",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Atlanta",
+    "y": 33.7673477,
+    "x": -84.4901701
   },
   {
     "city_id": 294481742,
@@ -2779,6 +2799,26 @@
     "x": -87.8175765
   },
   {
+    "city_id": 207999557,
+    "title_en": "Birmingham",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Birmingham",
+    "y": 33.5311585,
+    "x": -86.9902195
+  },
+  {
+    "city_id": 322511432,
+    "title_en": "Bloomington",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Bloomington",
+    "y": 40.4738837,
+    "x": -89.0068818
+  },
+  {
     "city_id": 136420,
     "title_en": "Boston",
     "country_ru": "США",
@@ -2827,6 +2867,26 @@
     "title_ru": "Берлингтон",
     "y": 42.6778976,
     "x": -88.2763697
+  },
+  {
+    "city_id": 329839756,
+    "title_en": "Cape Girardeau",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Cape Girardeau",
+    "y": 37.3040598,
+    "x": -89.6258255
+  },
+  {
+    "city_id": 325479047,
+    "title_en": "Cataract Falls",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Cataract Falls",
+    "y": 35.6895343,
+    "x": -83.5410234
   },
   {
     "city_id": 132343,
@@ -2919,6 +2979,16 @@
     "x": -85.7318459
   },
   {
+    "city_id": 298347535,
+    "title_en": "Great Smoky Mountains National Park",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Great Smoky Mountains National Park",
+    "y": 35.5807622,
+    "x": -83.8114578
+  },
+  {
     "city_id": 78676003,
     "title_en": "Hamilton Township",
     "country_ru": "United States",
@@ -2937,6 +3007,16 @@
     "title_ru": "Hammond",
     "y": 41.6424477,
     "x": -87.5488749
+  },
+  {
+    "city_id": 339233241,
+    "title_en": "Hartsville",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Hartsville",
+    "y": 36.3934414,
+    "x": -86.1738627
   },
   {
     "city_id": 183005698,
@@ -2967,6 +3047,16 @@
     "title_ru": "Hope",
     "y": 33.6672132,
     "x": -93.5914433
+  },
+  {
+    "city_id": 102721025,
+    "title_en": "Huntsville",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Huntsville",
+    "y": 34.7013484,
+    "x": -86.799832
   },
   {
     "city_id": 267963288,
@@ -3009,6 +3099,16 @@
     "x": -88.0019854
   },
   {
+    "city_id": 42313691,
+    "title_en": "Louisville",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Louisville",
+    "y": 38.1887218,
+    "x": -85.8168527
+  },
+  {
     "city_id": 182352,
     "title_en": "Manhattan",
     "country_ru": "США",
@@ -3017,6 +3117,16 @@
     "title_ru": "Манхеттен",
     "y": 40.78343,
     "x": -73.96625
+  },
+  {
+    "city_id": 298337313,
+    "title_en": "Memphis",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Memphis",
+    "y": 35.1291054,
+    "x": -90.1108694
   },
   {
     "city_id": 124499,
@@ -3049,6 +3159,16 @@
     "x": -87.9211368
   },
   {
+    "city_id": 311677136,
+    "title_en": "Montgomery",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Montgomery",
+    "y": 32.3437796,
+    "x": -86.3160771
+  },
+  {
     "city_id": 160957897,
     "title_en": "Naperville",
     "country_ru": "United States",
@@ -3057,6 +3177,16 @@
     "title_ru": "Naperville",
     "y": 41.7726641,
     "x": -88.1496073
+  },
+  {
+    "city_id": 2380689,
+    "title_en": "Nashville",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Nashville",
+    "y": 36.1865589,
+    "x": -86.9253278
   },
   {
     "city_id": 2822210,
@@ -3257,6 +3387,16 @@
     "title_ru": "St Joseph",
     "y": 42.0978705,
     "x": -86.5239049
+  },
+  {
+    "city_id": 325554171,
+    "title_en": "St. Louis",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "St. Louis",
+    "y": 38.6530796,
+    "x": -90.3135015
   },
   {
     "city_id": 179988783,
