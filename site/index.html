@@ -15,14 +15,7 @@
   <body>
     <div class="map" id="map"></div>
     <ul class="other-web-sites"></ul>
-    <script>
-      fetch('https://proton.name/links.json')
-        .then(response => response.json())
-        .then(links => {
-          document.getElementsByClassName('other-web-sites')[0].innerHTML =
-            links.map(link => `<li${window.location.hostname === link ? ' class="current"' : ''}><a href="https://${link}">${link}</a></li>`).join('')
-        })
-    </script>
+    <script type="text/javascript" src="https://proton.name/other-links.js"></script>
     <script type="text/javascript" src="/code.js"></script>
   </body>
 </html>
