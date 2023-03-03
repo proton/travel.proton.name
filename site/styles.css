@@ -23,7 +23,7 @@ a:hover {
   list-style: none;
   position: fixed;
   bottom: 0;
-  font-size: 14px;
+  font-size: 0.8rem;
   background: white;
 
   opacity: 0.5;
@@ -43,3 +43,10 @@ a:hover {
 .other-web-sites a {
   text-decoration: none;
 }
+
+@media only screen and (max-width: 736px) {
+  .other-web-sites {
+    font-size: 0.5rem;
+  }
+}
+
