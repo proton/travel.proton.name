@@ -1609,6 +1609,16 @@
     "x": 25.2798
   },
   {
+    "city_id": 298811243,
+    "title_en": "Aguascalientes",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Aguascalientes",
+    "y": 22.0406897,
+    "x": -102.6349157
+  },
+  {
     "city_id": 118645949,
     "title_en": "Chich%C3%A9n-Itz%C3%A1",
     "country_ru": "Mexico",
@@ -1617,6 +1627,26 @@
     "title_ru": "Chich%C3%A9n-Itz%C3%A1",
     "y": 20.6791102,
     "x": -88.568467
+  },
+  {
+    "city_id": 57238270,
+    "title_en": "Mexico City",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Mexico City",
+    "y": 19.4327662,
+    "x": -99.1343089
+  },
+  {
+    "city_id": 176446424,
+    "title_en": "Zacatecas",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Zacatecas",
+    "y": 22.7709274,
+    "x": -102.5744675
   },
   {
     "city_id": 100061,
@@ -2809,6 +2839,16 @@
     "x": -87.8175765
   },
   {
+    "city_id": 108361087,
+    "title_en": "Bigfoot",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Bigfoot",
+    "y": 29.047119,
+    "x": -98.8667797
+  },
+  {
     "city_id": 207999557,
     "title_en": "Birmingham",
     "country_ru": "United States",
@@ -2937,6 +2977,16 @@
     "title_ru": "Detroit",
     "y": 42.3526897,
     "x": -83.169244
+  },
+  {
+    "city_id": 323781483,
+    "title_en": "Dilley",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Dilley",
+    "y": 28.6681128,
+    "x": -99.1732307
   },
   {
     "city_id": 141469223,
@@ -3097,6 +3147,16 @@
     "title_ru": "Lambertville",
     "y": 40.3703837,
     "x": -74.9508388
+  },
+  {
+    "city_id": 336809845,
+    "title_en": "Laredo",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Laredo",
+    "y": 27.5037999,
+    "x": -99.5076808
   },
   {
     "city_id": 75156805,
@@ -3359,6 +3419,16 @@
     "x": -97.6789
   },
   {
+    "city_id": 302762578,
+    "title_en": "San Antonio",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "San Antonio",
+    "y": 29.4585002,
+    "x": -98.6544594
+  },
+  {
     "city_id": 297893072,
     "title_en": "Schaumburg",
     "country_ru": "United States",
@@ -3457,6 +3527,26 @@
     "title_ru": "Toledo",
     "y": 41.6565337,
     "x": -83.6442955
+  },
+  {
+    "city_id": 319554590,
+    "title_en": "Troy",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Troy",
+    "y": 38.7246246,
+    "x": -89.9172425
+  },
+  {
+    "city_id": 307358252,
+    "title_en": "Tulsa",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Tulsa",
+    "y": 36.1522199,
+    "x": -96.0180928
   },
   {
     "city_id": 109026197,
