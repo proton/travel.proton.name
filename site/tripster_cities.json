@@ -1629,6 +1629,26 @@
     "x": -88.568467
   },
   {
+    "city_id": 143206998,
+    "title_en": "Cuernavaca",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Cuernavaca",
+    "y": 18.9258142,
+    "x": -99.2263178
+  },
+  {
+    "city_id": 119117682,
+    "title_en": "Las Flores",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Las Flores",
+    "y": 18.7146322,
+    "x": -99.2547959
+  },
+  {
     "city_id": 57238270,
     "title_en": "Mexico City",
     "country_ru": "Mexico",
@@ -1637,6 +1657,16 @@
     "title_ru": "Mexico City",
     "y": 19.4327662,
     "x": -99.1343089
+  },
+  {
+    "city_id": 244880284,
+    "title_en": "Xochicalco",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Xochicalco",
+    "y": 18.7878511,
+    "x": -99.300389
   },
   {
     "city_id": 176446424,
