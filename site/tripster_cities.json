@@ -1659,6 +1659,26 @@
     "x": -99.1343089
   },
   {
+    "city_id": 284399271,
+    "title_en": "Pachuca",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Pachuca",
+    "y": 20.0991734,
+    "x": -98.7604881
+  },
+  {
+    "city_id": 259928260,
+    "title_en": "San Juan Teotihuac%C3%A1n",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "San Juan Teotihuac%C3%A1n",
+    "y": 19.687536,
+    "x": -98.8809709
+  },
+  {
     "city_id": 244880284,
     "title_en": "Xochicalco",
     "country_ru": "Mexico",
