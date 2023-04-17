@@ -1619,6 +1619,16 @@
     "x": -102.6349157
   },
   {
+    "city_id": 61992760,
+    "title_en": "Cascada Apatlaco",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Cascada Apatlaco",
+    "y": 19.1076028,
+    "x": -98.6261549
+  },
+  {
     "city_id": 118645949,
     "title_en": "Chich%C3%A9n-Itz%C3%A1",
     "country_ru": "Mexico",
@@ -1667,6 +1677,16 @@
     "title_ru": "Pachuca",
     "y": 20.0991734,
     "x": -98.7604881
+  },
+  {
+    "city_id": 242839322,
+    "title_en": "Paso de Cort%C3%A9s (Tlamacaxco)",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Paso de Cort%C3%A9s (Tlamacaxco)",
+    "y": 19.0854834,
+    "x": -98.6504096
   },
   {
     "city_id": 259928260,
