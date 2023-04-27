@@ -1619,6 +1619,16 @@
     "x": -102.6349157
   },
   {
+    "city_id": 188116354,
+    "title_en": "Bernal",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Bernal",
+    "y": 20.7375117,
+    "x": -99.9424689
+  },
+  {
     "city_id": 61992760,
     "title_en": "Cascada Apatlaco",
     "country_ru": "Mexico",
@@ -1627,6 +1637,26 @@
     "title_ru": "Cascada Apatlaco",
     "y": 19.1076028,
     "x": -98.6261549
+  },
+  {
+    "city_id": 46442755,
+    "title_en": "Cascadas de Minas Viejas",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Cascadas de Minas Viejas",
+    "y": 22.3754531,
+    "x": -99.3187677
+  },
+  {
+    "city_id": 182156544,
+    "title_en": "Cave of Swallows",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Cave of Swallows",
+    "y": 21.599682,
+    "x": -99.1090609
   },
   {
     "city_id": 118645949,
@@ -1659,6 +1689,26 @@
     "x": -99.2547959
   },
   {
+    "city_id": 238118535,
+    "title_en": "Las Pozas",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Las Pozas",
+    "y": 21.3966614,
+    "x": -98.9970746
+  },
+  {
+    "city_id": 265471338,
+    "title_en": "Maitinez",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Maitinez",
+    "y": 22.3734965,
+    "x": -99.2965891
+  },
+  {
     "city_id": 57238270,
     "title_en": "Mexico City",
     "country_ru": "Mexico",
@@ -1667,6 +1717,16 @@
     "title_ru": "Mexico City",
     "y": 19.4327662,
     "x": -99.1343089
+  },
+  {
+    "city_id": 141712965,
+    "title_en": "Monterrey",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Monterrey",
+    "y": 25.6487718,
+    "x": -100.3854967
   },
   {
     "city_id": 284399271,
@@ -2909,6 +2969,16 @@
     "x": -87.8175765
   },
   {
+    "city_id": 332995405,
+    "title_en": "Beebe",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Beebe",
+    "y": 35.0710757,
+    "x": -91.9179088
+  },
+  {
     "city_id": 108361087,
     "title_en": "Bigfoot",
     "country_ru": "United States",
@@ -2937,6 +3007,16 @@
     "title_ru": "Bloomington",
     "y": 40.4738837,
     "x": -89.0068818
+  },
+  {
+    "city_id": 106145276,
+    "title_en": "Boerne",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Boerne",
+    "y": 29.7887726,
+    "x": -98.7862379
   },
   {
     "city_id": 136420,
@@ -3059,6 +3139,16 @@
     "x": -99.1732307
   },
   {
+    "city_id": 109362797,
+    "title_en": "Dublin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Dublin",
+    "y": 32.0848702,
+    "x": -98.357243
+  },
+  {
     "city_id": 141469223,
     "title_en": "Evanston",
     "country_ru": "United States",
@@ -3089,6 +3179,16 @@
     "x": -83.7524696
   },
   {
+    "city_id": 326624911,
+    "title_en": "Fredericksburg",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Fredericksburg",
+    "y": 30.2678579,
+    "x": -98.8986596
+  },
+  {
     "city_id": 114647516,
     "title_en": "Goat Island",
     "country_ru": "United States",
@@ -3097,6 +3197,16 @@
     "title_ru": "Goat Island",
     "y": 43.0810384,
     "x": -79.0707769
+  },
+  {
+    "city_id": 353642346,
+    "title_en": "Granbury",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Granbury",
+    "y": 32.4408297,
+    "x": -97.7865816
   },
   {
     "city_id": 311196592,
@@ -3197,6 +3307,16 @@
     "title_ru": "Indiana Dunes State Park",
     "y": 41.6633853,
     "x": -87.0592806
+  },
+  {
+    "city_id": 320309405,
+    "title_en": "Jonesboro",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Jonesboro",
+    "y": 35.8209116,
+    "x": -90.7518601
   },
   {
     "city_id": 124395,
@@ -3507,6 +3627,16 @@
     "title_ru": "Schaumburg",
     "y": 42.0328846,
     "x": -88.0836292
+  },
+  {
+    "city_id": 332997289,
+    "title_en": "Searcy",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Searcy",
+    "y": 35.242297,
+    "x": -91.7433297
   },
   {
     "city_id": 319144917,
