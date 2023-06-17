@@ -3159,6 +3159,16 @@
     "x": -98.357243
   },
   {
+    "city_id": 97667068,
+    "title_en": "Elmhurst",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Elmhurst",
+    "y": 41.8993462,
+    "x": -87.9403943
+  },
+  {
     "city_id": 141469223,
     "title_en": "Evanston",
     "country_ru": "United States",
@@ -3377,6 +3387,16 @@
     "title_ru": "Lemont",
     "y": 41.6736425,
     "x": -88.0019854
+  },
+  {
+    "city_id": 70680290,
+    "title_en": "Long Grove",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Long Grove",
+    "y": 42.1784508,
+    "x": -87.9978809
   },
   {
     "city_id": 42313691,
