@@ -22,10 +22,6 @@ h =
     y: coords[0],
     x: coords[1]
   }
-
-p result
-p h
-
 cities_path = "site/tripster_cities.json"
 
 arr = JSON.parse(File.open(cities_path).read, symbolize_names: true)
@@ -36,6 +32,10 @@ arr = arr
   .map { |point| %i[title_en title_ru].each { |k| point[k] = point[k].gsub("+", " ") if point[k] }; point }
   .uniq { |point| point[:city_id] }
   .sort_by { |point| %i[country_en title_en].map { |k| point[k] } }
+
+similar = arr.select { |eh| eh[:title_en] == h[:title_en] && eh[:country_en] == h[:country_en] }
+puts "Similar: #{similar.size}"
+p similar
 
 File.open(cities_path, "w") do |file|
   file.write(JSON.pretty_generate(arr))
