@@ -15,6 +15,7 @@ h =
   {
     city_id: result.place_id,
     title_en: city,
+    state_en: result.state,
     country_ru: result.country,
     country_en: result.country,
     image_url: "",
