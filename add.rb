@@ -35,8 +35,12 @@ arr = arr
   .sort_by { |point| %i[country_en title_en].map { |k| point[k] } }
 
 similar = arr.select { |eh| eh[:title_en] == h[:title_en] && eh[:country_en] == h[:country_en] }
-puts "Similar: #{similar.size}"
-p similar
+if similar.size > 1
+  puts "Duplicates: #{similar.size - 1}"
+  p similar
+else
+  puts "no duplicates ^_^"
+end
 
 File.open(cities_path, "w") do |file|
   file.write(JSON.pretty_generate(arr))
