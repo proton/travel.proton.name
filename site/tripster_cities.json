@@ -2889,6 +2889,17 @@
     "x": -75.2308045
   },
   {
+    "city_id": 323140797,
+    "title_en": "Angelo",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Angelo",
+    "y": 43.9707396,
+    "x": -90.7780668
+  },
+  {
     "city_id": 313807886,
     "title_en": "Arlington Heights",
     "country_ru": "United States",
@@ -2960,6 +2971,17 @@
     "x": -76.6905362
   },
   {
+    "city_id": 182114008,
+    "title_en": "Baraboo",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Baraboo",
+    "y": 43.4710985,
+    "x": -89.7444976
+  },
+  {
     "city_id": 336865772,
     "title_en": "Barataria",
     "country_ru": "United States",
@@ -3018,6 +3040,17 @@
     "title_ru": "Bloomington",
     "y": 40.4738837,
     "x": -89.0068818
+  },
+  {
+    "city_id": 100475443,
+    "title_en": "Bluffview",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Bluffview",
+    "y": 43.3713541,
+    "x": -89.7732037
   },
   {
     "city_id": 106145276,
@@ -3219,6 +3252,17 @@
     "title_ru": "Форт-Лодердейл",
     "y": 26.12231,
     "x": -80.14338
+  },
+  {
+    "city_id": 272903440,
+    "title_en": "Fountain City",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Fountain City",
+    "y": 44.1319078,
+    "x": -91.7187627
   },
   {
     "city_id": 318887014,
@@ -3462,6 +3506,17 @@
     "x": -85.8168527
   },
   {
+    "city_id": 200768168,
+    "title_en": "Madison",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Madison",
+    "y": 43.0721635,
+    "x": -89.4013565
+  },
+  {
     "city_id": 182352,
     "title_en": "Manhattan",
     "country_ru": "США",
@@ -3510,6 +3565,17 @@
     "title_ru": "Milwaukee",
     "y": 43.0367748,
     "x": -87.9211368
+  },
+  {
+    "city_id": 298061928,
+    "title_en": "Minneapolis",
+    "state_en": "Minnesota",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Minneapolis",
+    "y": 44.9777473,
+    "x": -93.2652217
   },
   {
     "city_id": 311677136,
@@ -3713,6 +3779,17 @@
     "x": -87.8199179
   },
   {
+    "city_id": 265300681,
+    "title_en": "Rockford",
+    "state_en": "Illinois",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Rockford",
+    "y": 42.2711445,
+    "x": -89.0943165
+  },
+  {
     "city_id": 133167,
     "title_en": "Round Rock",
     "country_ru": "США",
@@ -3911,6 +3988,17 @@
     "title_ru": "Wilmington",
     "y": 39.7298967,
     "x": -75.5645038
+  },
+  {
+    "city_id": 287988379,
+    "title_en": "Wisconsin Dells",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Wisconsin Dells",
+    "y": 43.6275911,
+    "x": -89.7720273
   },
   {
     "city_id": 316503362,
