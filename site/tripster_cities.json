@@ -2930,6 +2930,17 @@
     "x": -74.4878423
   },
   {
+    "city_id": 23428231,
+    "title_en": "Au Train",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Au Train",
+    "y": 46.4303474,
+    "x": -86.8378913
+  },
+  {
     "city_id": 176542556,
     "title_en": "Aurora",
     "state_en": "Illinois",
@@ -3224,6 +3235,17 @@
     "x": -87.9403943
   },
   {
+    "city_id": 23445330,
+    "title_en": "Escanaba",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Escanaba",
+    "y": 45.7453773,
+    "x": -87.0649805
+  },
+  {
     "city_id": 141469223,
     "title_en": "Evanston",
     "country_ru": "United States",
@@ -3313,6 +3335,17 @@
     "title_ru": "Granbury",
     "y": 32.4408297,
     "x": -97.7865816
+  },
+  {
+    "city_id": 23511262,
+    "title_en": "Grand Island Township",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Grand Island Township",
+    "y": 46.5256047,
+    "x": -86.6663472
   },
   {
     "city_id": 311196592,
@@ -3506,6 +3539,17 @@
     "x": -85.8168527
   },
   {
+    "city_id": 23342498,
+    "title_en": "Mackinaw City",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Mackinaw City",
+    "y": 45.7776055,
+    "x": -84.7274132
+  },
+  {
     "city_id": 200768168,
     "title_en": "Madison",
     "state_en": "Wisconsin",
@@ -3586,6 +3630,17 @@
     "title_ru": "Montgomery",
     "y": 32.3437796,
     "x": -86.3160771
+  },
+  {
+    "city_id": 23483480,
+    "title_en": "Munising",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Munising",
+    "y": 46.4109841,
+    "x": -86.6486197
   },
   {
     "city_id": 160957897,
@@ -3717,6 +3772,17 @@
     "title_ru": "Perrysburg",
     "y": 41.5355682,
     "x": -83.6786918
+  },
+  {
+    "city_id": 352741225,
+    "title_en": "Petoskey",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Petoskey",
+    "y": 45.3733268,
+    "x": -84.9554254
   },
   {
     "city_id": 104423915,
@@ -3868,6 +3934,17 @@
     "title_ru": "Springfield",
     "y": 39.78171,
     "x": -89.6500187
+  },
+  {
+    "city_id": 332073775,
+    "title_en": "St Ignace",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "St Ignace",
+    "y": 45.8754712,
+    "x": -84.7324571
   },
   {
     "city_id": 282306076,
