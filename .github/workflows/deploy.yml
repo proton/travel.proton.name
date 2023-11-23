@@ -57,7 +57,7 @@ jobs:
 
       - name: Update Helm Chart Values
         run: |
-          sed -i "s/tag: latest/tag: ${{ github.run_id }}/g" helm-chart/values.yaml
+          sed -i "s/tag: latest/tag: '${{ github.run_id }}'/" helm-chart/values.yaml
 
       - name: Deploy Helm Chart
         run: |
