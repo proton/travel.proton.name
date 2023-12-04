@@ -3888,6 +3888,17 @@
     "x": -98.6544594
   },
   {
+    "city_id": 311854168,
+    "title_en": "San Francisco",
+    "state_en": "California",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "San Francisco",
+    "y": 37.7748622,
+    "x": -122.4194859
+  },
+  {
     "city_id": 297893072,
     "title_en": "Schaumburg",
     "country_ru": "United States",
