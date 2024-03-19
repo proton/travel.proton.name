@@ -3235,6 +3235,17 @@
     "x": -87.9403943
   },
   {
+    "city_id": 15686997,
+    "title_en": "Englewood",
+    "state_en": "New Jersey",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Englewood",
+    "y": 40.8928785,
+    "x": -73.9727595
+  },
+  {
     "city_id": 23445330,
     "title_en": "Escanaba",
     "state_en": "Michigan",
@@ -3408,6 +3419,17 @@
     "x": -85.3777397
   },
   {
+    "city_id": 13487696,
+    "title_en": "Hoboken",
+    "state_en": "New Jersey",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Hoboken",
+    "y": 40.7439812,
+    "x": -74.032464
+  },
+  {
     "city_id": 305594409,
     "title_en": "Holly Beach",
     "country_ru": "United States",
@@ -3456,6 +3478,17 @@
     "title_ru": "Indianapolis",
     "y": 39.7684157,
     "x": -86.1581637
+  },
+  {
+    "city_id": 13572392,
+    "title_en": "Jersey City",
+    "state_en": "New Jersey",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Jersey City",
+    "y": 40.7177417,
+    "x": -74.0433228
   },
   {
     "city_id": 320309405,
@@ -4019,6 +4052,17 @@
     "title_ru": "Tampa",
     "y": 27.9518093,
     "x": -82.4567879
+  },
+  {
+    "city_id": 346549717,
+    "title_en": "Tenafly",
+    "state_en": "New Jersey",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Tenafly",
+    "y": 40.9253407,
+    "x": -73.9629944
   },
   {
     "city_id": 2926829,
