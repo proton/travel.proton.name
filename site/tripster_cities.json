@@ -261,11 +261,11 @@
   },
   {
     "city_id": 128177830,
-    "title_en": "Sainte-Th%C3%A9r%C3%A8se-de-la-Gatineau",
+    "title_en": "Sainte-Thérèse-de-la-Gatineau",
     "country_ru": "Canada",
     "country_en": "Canada",
     "image_url": "",
-    "title_ru": "Sainte-Th%C3%A9r%C3%A8se-de-la-Gatineau",
+    "title_ru": "Sainte-Thérèse-de-la-Gatineau",
     "y": 46.3026675,
     "x": -75.8853847
   },
@@ -1660,11 +1660,11 @@
   },
   {
     "city_id": 118645949,
-    "title_en": "Chich%C3%A9n-Itz%C3%A1",
+    "title_en": "Chichén-Itzá",
     "country_ru": "Mexico",
     "country_en": "Mexico",
     "image_url": "",
-    "title_ru": "Chich%C3%A9n-Itz%C3%A1",
+    "title_ru": "Chichén-Itzá",
     "y": 20.6791102,
     "x": -88.568467
   },
@@ -1740,21 +1740,21 @@
   },
   {
     "city_id": 242839322,
-    "title_en": "Paso de Cort%C3%A9s (Tlamacaxco)",
+    "title_en": "Paso de Cortés (Tlamacaxco)",
     "country_ru": "Mexico",
     "country_en": "Mexico",
     "image_url": "",
-    "title_ru": "Paso de Cort%C3%A9s (Tlamacaxco)",
+    "title_ru": "Paso de Cortés (Tlamacaxco)",
     "y": 19.0854834,
     "x": -98.6504096
   },
   {
     "city_id": 259928260,
-    "title_en": "San Juan Teotihuac%C3%A1n",
+    "title_en": "San Juan Teotihuacán",
     "country_ru": "Mexico",
     "country_en": "Mexico",
     "image_url": "",
-    "title_ru": "San Juan Teotihuac%C3%A1n",
+    "title_ru": "San Juan Teotihuacán",
     "y": 19.687536,
     "x": -98.8809709
   },
