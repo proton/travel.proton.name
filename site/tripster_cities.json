@@ -3501,6 +3501,17 @@
     "x": -90.7518601
   },
   {
+    "city_id": 355451841,
+    "title_en": "Kenosha",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Kenosha",
+    "y": 42.584704,
+    "x": -87.8216353
+  },
+  {
     "city_id": 124395,
     "title_en": "Key West",
     "country_ru": "США",
@@ -4144,6 +4155,17 @@
     "title_ru": "Wayzata",
     "y": 44.9741218,
     "x": -93.5067973
+  },
+  {
+    "city_id": 357259231,
+    "title_en": "Whitewater",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Whitewater",
+    "y": 42.8337856,
+    "x": -88.7330515
   },
   {
     "city_id": 308558649,
