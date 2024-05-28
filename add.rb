@@ -3,6 +3,12 @@
 require "json"
 require "geocoder"
 
+Geocoder.configure(
+ timeout: 10,
+ lookup: :nominatim,
+ http_headers: { "User-Agent" => "Petr Savichev (psavichev@gmail.com)" },
+)
+
 url = ARGV[0]
 
 city = url.match(/place\/([^,\/]+)/)[1]
