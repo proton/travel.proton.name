@@ -2973,6 +2973,17 @@
     "x": -97.74306
   },
   {
+    "city_id": 315979105,
+    "title_en": "Badlands National Park",
+    "state_en": "South Dakota",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Badlands National Park",
+    "y": 43.8553942,
+    "x": -102.3398321
+  },
+  {
     "city_id": 124067,
     "title_en": "Bal Harbour",
     "country_ru": "США",
@@ -3034,6 +3045,17 @@
     "x": -91.9179088
   },
   {
+    "city_id": 315899560,
+    "title_en": "Big Timber",
+    "state_en": "Montana",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Big Timber",
+    "y": 45.8343769,
+    "x": -109.9542464
+  },
+  {
     "city_id": 108361087,
     "title_en": "Bigfoot",
     "country_ru": "United States",
@@ -3062,6 +3084,17 @@
     "title_ru": "Bloomington",
     "y": 40.4738837,
     "x": -89.0068818
+  },
+  {
+    "city_id": 362148658,
+    "title_en": "Blue Earth",
+    "state_en": "Minnesota",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Blue Earth",
+    "y": 43.6375377,
+    "x": -94.1024602
   },
   {
     "city_id": 100475443,
@@ -3239,6 +3272,17 @@
     "x": -95.8615587
   },
   {
+    "city_id": 316348676,
+    "title_en": "Crazy Horse Memorial",
+    "state_en": "South Dakota",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Crazy Horse Memorial",
+    "y": 43.8366258,
+    "x": -103.6235743
+  },
+  {
     "city_id": 28062938,
     "title_en": "DeKalb",
     "state_en": "Illinois",
@@ -3291,6 +3335,17 @@
     "title_ru": "Detroit",
     "y": 42.3526897,
     "x": -83.169244
+  },
+  {
+    "city_id": 315975258,
+    "title_en": "Devil%E2%80%99s Tower",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Devil%E2%80%99s Tower",
+    "y": 44.590811,
+    "x": -104.7153283
   },
   {
     "city_id": 323781483,
@@ -3469,6 +3524,17 @@
     "x": -86.6663472
   },
   {
+    "city_id": 315866555,
+    "title_en": "Grand Prismatic Spring Overlook",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Grand Prismatic Spring Overlook",
+    "y": 44.5234786,
+    "x": -110.8400311
+  },
+  {
     "city_id": 311196592,
     "title_en": "Grand Rapids",
     "country_ru": "United States",
@@ -3479,6 +3545,17 @@
     "x": -85.7318459
   },
   {
+    "city_id": 315848331,
+    "title_en": "Grand Teton National Park",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Grand Teton National Park",
+    "y": 43.7904351,
+    "x": -110.6818895
+  },
+  {
     "city_id": 298347535,
     "title_en": "Great Smoky Mountains National Park",
     "country_ru": "United States",
@@ -3487,6 +3564,17 @@
     "title_ru": "Great Smoky Mountains National Park",
     "y": 35.5807622,
     "x": -83.8114578
+  },
+  {
+    "city_id": 341985015,
+    "title_en": "Greycliff",
+    "state_en": "Montana",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Greycliff",
+    "y": 45.7633501,
+    "x": -109.7849119
   },
   {
     "city_id": 78676003,
@@ -3588,6 +3676,17 @@
     "title_ru": "Indianapolis",
     "y": 39.7684157,
     "x": -86.1581637
+  },
+  {
+    "city_id": 315847945,
+    "title_en": "Island Park",
+    "state_en": "Idaho",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Island Park",
+    "y": 44.4244175,
+    "x": -111.371302
   },
   {
     "city_id": 13572392,
@@ -3696,6 +3795,17 @@
     "x": -88.0748787
   },
   {
+    "city_id": 315900710,
+    "title_en": "Livingston",
+    "state_en": "Montana",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Livingston",
+    "y": 45.6613943,
+    "x": -110.5600359
+  },
+  {
     "city_id": 70680290,
     "title_en": "Long Grove",
     "country_ru": "United States",
@@ -3747,6 +3857,17 @@
     "title_ru": "Madison",
     "y": 43.0721635,
     "x": -89.4013565
+  },
+  {
+    "city_id": 315871207,
+    "title_en": "Mammoth Hot Springs",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Mammoth Hot Springs",
+    "y": 44.9705839,
+    "x": -110.7035632
   },
   {
     "city_id": 182352,
@@ -3832,6 +3953,17 @@
     "x": -97.7069415
   },
   {
+    "city_id": 316346045,
+    "title_en": "Mitchell",
+    "state_en": "South Dakota",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Mitchell",
+    "y": 43.7094543,
+    "x": -98.0300573
+  },
+  {
     "city_id": 311677136,
     "title_en": "Montgomery",
     "country_ru": "United States",
@@ -3840,6 +3972,39 @@
     "title_ru": "Montgomery",
     "y": 32.3437796,
     "x": -86.3160771
+  },
+  {
+    "city_id": 382370664,
+    "title_en": "Morning Glory Pool",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Morning Glory Pool",
+    "y": 44.4751003,
+    "x": -110.8437212
+  },
+  {
+    "city_id": 316348698,
+    "title_en": "Mount Rushmore National Memorial George Washington",
+    "state_en": "South Dakota",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Mount Rushmore National Memorial George Washington",
+    "y": 43.8788311,
+    "x": -103.4590736
+  },
+  {
+    "city_id": 315886669,
+    "title_en": "Mud Volcano",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Mud Volcano",
+    "y": 44.6244057,
+    "x": -110.4347498
   },
   {
     "city_id": 23483480,
@@ -3933,6 +4098,17 @@
     "x": -74.00597
   },
   {
+    "city_id": 315839154,
+    "title_en": "Newcastle",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Newcastle",
+    "y": 43.8547603,
+    "x": -104.2051735
+  },
+  {
     "city_id": "Niles - United States",
     "title_en": "Niles",
     "country_ru": "США",
@@ -3941,6 +4117,17 @@
     "title_ru": "Niles",
     "y": 42.0190631,
     "x": -87.8027698
+  },
+  {
+    "city_id": 315876481,
+    "title_en": "Norris Geyser Basin",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Norris Geyser Basin",
+    "y": 44.726238,
+    "x": -110.7043796
   },
   {
     "city_id": 145421153,
@@ -3985,6 +4172,17 @@
     "x": -74.6380517
   },
   {
+    "city_id": 315860013,
+    "title_en": "Old Faithful",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Old Faithful",
+    "y": 44.4605075,
+    "x": -110.8282182
+  },
+  {
     "city_id": 389369754,
     "title_en": "Omaha",
     "state_en": "Nebraska",
@@ -4026,6 +4224,17 @@
     "title_ru": "Petoskey",
     "y": 45.3733268,
     "x": -84.9554254
+  },
+  {
+    "city_id": 315856052,
+    "title_en": "Petrified Tree",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Petrified Tree",
+    "y": 44.9162914,
+    "x": -110.4395544
   },
   {
     "city_id": 104423915,
@@ -4204,6 +4413,17 @@
     "x": -88.2019766
   },
   {
+    "city_id": 316246890,
+    "title_en": "Sioux Falls",
+    "state_en": "South Dakota",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Sioux Falls",
+    "y": 43.5454575,
+    "x": -96.7323771
+  },
+  {
     "city_id": 115137475,
     "title_en": "Skokie",
     "country_ru": "United States",
@@ -4369,6 +4589,17 @@
     "x": -87.7281346
   },
   {
+    "city_id": 315860851,
+    "title_en": "Upper Falls View",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Upper Falls View",
+    "y": 44.7147315,
+    "x": -110.4971402
+  },
+  {
     "city_id": 263382713,
     "title_en": "Waco",
     "country_ru": "United States",
@@ -4481,6 +4712,17 @@
     "title_ru": "Wyoming",
     "y": 42.8963646,
     "x": -85.7467247
+  },
+  {
+    "city_id": 315875673,
+    "title_en": "Yellowstone National Park",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Yellowstone National Park",
+    "y": 44.5979461,
+    "x": -110.5623198
   },
   {
     "city_id": 148926,
