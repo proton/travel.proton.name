@@ -3095,6 +3095,17 @@
     "x": -71.05977
   },
   {
+    "city_id": 315654086,
+    "title_en": "Boulder",
+    "state_en": "Colorado",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Boulder",
+    "y": 40.0152413,
+    "x": -105.2708136
+  },
+  {
     "city_id": 296896624,
     "title_en": "Breaux Bridge",
     "country_ru": "United States",
@@ -3186,6 +3197,17 @@
     "x": -91.6710395
   },
   {
+    "city_id": 316916154,
+    "title_en": "Chalk Pyramids",
+    "state_en": "Kansas",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Chalk Pyramids",
+    "y": 38.7961329,
+    "x": -100.7646868
+  },
+  {
     "city_id": "Chicago - United States",
     "title_en": "Chicago",
     "country_ru": "США",
@@ -3237,6 +3259,17 @@
     "title_ru": "Deerfield",
     "y": 42.1711214,
     "x": -87.8447428
+  },
+  {
+    "city_id": 317071970,
+    "title_en": "Denver",
+    "state_en": "Colorado",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Denver",
+    "y": 39.7410826,
+    "x": -104.9908276
   },
   {
     "city_id": 28129127,
@@ -3382,6 +3415,17 @@
     "title_ru": "Fulton",
     "y": 41.8669274,
     "x": -90.1603059
+  },
+  {
+    "city_id": 317423526,
+    "title_en": "Garden of the Gods",
+    "state_en": "Colorado",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Garden of the Gods",
+    "y": 38.8718808,
+    "x": -104.8862782
   },
   {
     "city_id": 2236866,
@@ -3567,6 +3611,17 @@
     "x": -90.7518601
   },
   {
+    "city_id": 322512069,
+    "title_en": "Kansas City",
+    "state_en": "Missouri",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Kansas City",
+    "y": 39.0997361,
+    "x": -94.5801402
+  },
+  {
     "city_id": 355451841,
     "title_en": "Kenosha",
     "state_en": "Wisconsin",
@@ -3661,6 +3716,17 @@
     "x": -85.8168527
   },
   {
+    "city_id": 360771259,
+    "title_en": "Lucas",
+    "state_en": "Kansas",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Lucas",
+    "y": 39.0562359,
+    "x": -98.5366354
+  },
+  {
     "city_id": 23342498,
     "title_en": "Mackinaw City",
     "state_en": "Michigan",
@@ -3753,6 +3819,17 @@
     "title_ru": "Minneapolis",
     "y": 44.9777473,
     "x": -93.2652217
+  },
+  {
+    "city_id": 350814822,
+    "title_en": "Minneapolis",
+    "state_en": "Kansas",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Minneapolis",
+    "y": 39.1218732,
+    "x": -97.7069415
   },
   {
     "city_id": 311677136,
@@ -3887,6 +3964,17 @@
     "x": -87.8074676
   },
   {
+    "city_id": 363284858,
+    "title_en": "Oakley",
+    "state_en": "Kansas",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Oakley",
+    "y": 39.1270406,
+    "x": -100.8539332
+  },
+  {
     "city_id": 126599329,
     "title_en": "Ocean City",
     "country_ru": "United States",
@@ -3906,6 +3994,17 @@
     "title_ru": "Omaha",
     "y": 41.25671,
     "x": -95.934917
+  },
+  {
+    "city_id": 322270710,
+    "title_en": "Overland Park",
+    "state_en": "Kansas",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Overland Park",
+    "y": 38.9829701,
+    "x": -94.671045
   },
   {
     "city_id": 171208057,
@@ -3979,6 +4078,17 @@
     "x": -74.7048618
   },
   {
+    "city_id": 350582915,
+    "title_en": "Rawlins",
+    "state_en": "Wyoming",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Rawlins",
+    "y": 41.7910635,
+    "x": -107.238747
+  },
+  {
     "city_id": 43759653,
     "title_en": "River Forest",
     "country_ru": "United States",
@@ -4000,6 +4110,17 @@
     "x": -91.581507
   },
   {
+    "city_id": 316607413,
+    "title_en": "Rock City Park",
+    "state_en": "Kansas",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Rock City Park",
+    "y": 39.0907439,
+    "x": -97.7352685
+  },
+  {
     "city_id": 265300681,
     "title_en": "Rockford",
     "state_en": "Illinois",
@@ -4009,6 +4130,17 @@
     "title_ru": "Rockford",
     "y": 42.2711445,
     "x": -89.0943165
+  },
+  {
+    "city_id": 315629095,
+    "title_en": "Rocky Mountain National Park",
+    "state_en": "Colorado",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Rocky Mountain National Park",
+    "y": 40.3457632,
+    "x": -105.6870676
   },
   {
     "city_id": 133167,
@@ -4154,6 +4286,17 @@
     "x": -82.6409723
   },
   {
+    "city_id": 315877149,
+    "title_en": "Swan Valley",
+    "state_en": "Idaho",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Swan Valley",
+    "y": 43.456053,
+    "x": -111.3417751
+  },
+  {
     "city_id": 332233630,
     "title_en": "Tampa",
     "country_ru": "United States",
@@ -4173,6 +4316,17 @@
     "title_ru": "Tenafly",
     "y": 40.9253407,
     "x": -73.9629944
+  },
+  {
+    "city_id": 317416698,
+    "title_en": "The Broadmoor Seven Falls",
+    "state_en": "Colorado",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "The Broadmoor Seven Falls",
+    "y": 38.7814067,
+    "x": -104.8799909
   },
   {
     "city_id": 2926829,
@@ -4223,6 +4377,17 @@
     "title_ru": "Waco",
     "y": 31.5496458,
     "x": -97.1467801
+  },
+  {
+    "city_id": 316593634,
+    "title_en": "Wamego",
+    "state_en": "Kansas",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Wamego",
+    "y": 39.2019336,
+    "x": -96.3050486
   },
   {
     "city_id": 310246301,
