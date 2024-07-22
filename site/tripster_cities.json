@@ -2879,6 +2879,17 @@
     "x": -88.4281867
   },
   {
+    "city_id": 28132439,
+    "title_en": "Amana",
+    "state_en": "Iowa",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Amana",
+    "y": 41.8025474,
+    "x": -91.8782898
+  },
+  {
     "city_id": 336546375,
     "title_en": "Ambler",
     "country_ru": "United States",
@@ -3164,6 +3175,17 @@
     "x": -97.82029
   },
   {
+    "city_id": 28046971,
+    "title_en": "Cedar Rapids",
+    "state_en": "Iowa",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Cedar Rapids",
+    "y": 41.9769836,
+    "x": -91.6710395
+  },
+  {
     "city_id": "Chicago - United States",
     "title_en": "Chicago",
     "country_ru": "США",
@@ -3184,6 +3206,28 @@
     "x": -81.6939321
   },
   {
+    "city_id": 28318953,
+    "title_en": "Council Bluffs",
+    "state_en": "Iowa",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Council Bluffs",
+    "y": 41.2604298,
+    "x": -95.8615587
+  },
+  {
+    "city_id": 28062938,
+    "title_en": "DeKalb",
+    "state_en": "Illinois",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "DeKalb",
+    "y": 41.929225,
+    "x": -88.7504168
+  },
+  {
     "city_id": 2261534,
     "title_en": "Deerfield",
     "state_en": "Illinois",
@@ -3193,6 +3237,17 @@
     "title_ru": "Deerfield",
     "y": 42.1711214,
     "x": -87.8447428
+  },
+  {
+    "city_id": 28129127,
+    "title_en": "Des Moines",
+    "state_en": "Iowa",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Des Moines",
+    "y": 41.5865187,
+    "x": -93.6310014
   },
   {
     "city_id": 295576723,
@@ -3316,6 +3371,17 @@
     "title_ru": "Fredericksburg",
     "y": 30.2678579,
     "x": -98.8986596
+  },
+  {
+    "city_id": 362956210,
+    "title_en": "Fulton",
+    "state_en": "Illinois",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Fulton",
+    "y": 41.8669274,
+    "x": -90.1603059
   },
   {
     "city_id": 2236866,
@@ -3627,6 +3693,17 @@
     "x": -73.96625
   },
   {
+    "city_id": 349374616,
+    "title_en": "Maquoketa Caves State Park",
+    "state_en": "Iowa",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Maquoketa Caves State Park",
+    "y": 42.1202167,
+    "x": -90.7669339
+  },
+  {
     "city_id": 298337313,
     "title_en": "Memphis",
     "country_ru": "United States",
@@ -3820,6 +3897,17 @@
     "x": -74.6380517
   },
   {
+    "city_id": 389369754,
+    "title_en": "Omaha",
+    "state_en": "Nebraska",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Omaha",
+    "y": 41.25671,
+    "x": -95.934917
+  },
+  {
     "city_id": 171208057,
     "title_en": "Perrysburg",
     "country_ru": "United States",
@@ -3899,6 +3987,17 @@
     "title_ru": "River Forest",
     "y": 41.8939355,
     "x": -87.8199179
+  },
+  {
+    "city_id": 347344888,
+    "title_en": "Riverside",
+    "state_en": "Iowa",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Riverside",
+    "y": 41.4798991,
+    "x": -91.581507
   },
   {
     "city_id": 265300681,
