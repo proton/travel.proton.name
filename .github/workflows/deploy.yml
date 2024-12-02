@@ -24,7 +24,9 @@ jobs:
 
       - name: Build and push image
         id: docker_build
-        uses: docker/build-push-action@v2
+        uses: docker/build-push-action@v6
         with:
           push: true
-          tags: registry.proton.name/${{ github.repository }}:${{ github.run_id }}
+          tags: |
+            registry.proton.name/${{ github.repository }}:latest
+            registry.proton.name/${{ github.repository }}:${{ github.run_id }}
