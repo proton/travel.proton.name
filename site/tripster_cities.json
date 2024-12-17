@@ -1749,6 +1749,17 @@
     "x": -98.6504096
   },
   {
+    "city_id": 284105798,
+    "title_en": "Puerto Morelos",
+    "state_en": "Quintana Roo",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Puerto Morelos",
+    "y": 20.8478276,
+    "x": -86.875716
+  },
+  {
     "city_id": 259928260,
     "title_en": "San Juan Teotihuacán",
     "country_ru": "Mexico",
@@ -3942,17 +3953,6 @@
     "x": -87.9211368
   },
   {
-    "city_id": 298061928,
-    "title_en": "Minneapolis",
-    "state_en": "Minnesota",
-    "country_ru": "United States",
-    "country_en": "United States",
-    "image_url": "",
-    "title_ru": "Minneapolis",
-    "y": 44.9777473,
-    "x": -93.2652217
-  },
-  {
     "city_id": 350814822,
     "title_en": "Minneapolis",
     "state_en": "Kansas",
@@ -3962,6 +3962,17 @@
     "title_ru": "Minneapolis",
     "y": 39.1218732,
     "x": -97.7069415
+  },
+  {
+    "city_id": 298061928,
+    "title_en": "Minneapolis",
+    "state_en": "Minnesota",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Minneapolis",
+    "y": 44.9777473,
+    "x": -93.2652217
   },
   {
     "city_id": 316346045,
