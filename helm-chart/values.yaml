@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: registry.proton.name/proton/travel.proton.name
   pullPolicy: Always
-  tag: 12541551604
+  tag: latest
 
 imagePullSecrets: []
 nameOverride: "travel-proton-name-app"
