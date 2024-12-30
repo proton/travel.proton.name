@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.name
+    value: registry.proton.name/proton/travel.proton.name
+    forcestring: true
+  - name: image.tag
+    value: "12540527448"
+    forcestring: true
