@@ -20,7 +20,8 @@ serviceAccount:
   # If not set and create is true, a name is generated using the fullname template
   name: ""
 
-podAnnotations: {}
+podAnnotations:
+  argo-rollout-trigger: "digest-{{now | date: '%s'}}"
 podLabels: {}
 
 podSecurityContext: {}
