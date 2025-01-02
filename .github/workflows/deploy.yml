@@ -33,14 +33,14 @@ jobs:
 
       - name: Update Helm values.yaml
         run: |
-          sed -i 's/value: ".*"/value: "${{ github.run_id }}"/g' .argocd-source-${{ github.repository }}.yaml
+          sed -i 's/value: ".*"/value: "${{ github.run_id }}"/g' .argocd-source-${{ github.event.repository.name }}.yaml
         working-directory: helm-chart
 
       - name: Commit and push updated values.yaml
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add helm-chart/.argocd-source-${{ github.repository }}.yaml
+          git add helm-chart/.argocd-source-${{ github.event.repository.name }}.yaml
           git commit -m "Update image tag to ${{ github.run_id }} [skip ci]"
           git push
         env:
