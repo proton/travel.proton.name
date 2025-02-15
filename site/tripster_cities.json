@@ -1383,6 +1383,17 @@
     "x": 18.4001
   },
   {
+    "city_id": 228502127,
+    "title_en": "Agra",
+    "state_en": "Uttar Pradesh",
+    "country_ru": "India",
+    "country_en": "India",
+    "image_url": "",
+    "title_ru": "Agra",
+    "y": 27.176713,
+    "x": 78.0079662
+  },
+  {
     "city_id": 150529,
     "title_en": "Anjuna",
     "country_ru": "Индия",
@@ -1401,6 +1412,72 @@
     "title_ru": "Арамболь",
     "y": 15.68681,
     "x": 73.70449
+  },
+  {
+    "city_id": 226233003,
+    "title_en": "Chandigarh",
+    "state_en": "Chandigarh",
+    "country_ru": "India",
+    "country_en": "India",
+    "image_url": "",
+    "title_ru": "Chandigarh",
+    "y": 30.7333514,
+    "x": 76.7792831
+  },
+  {
+    "city_id": 234937223,
+    "title_en": "Chapora",
+    "state_en": "Goa",
+    "country_ru": "India",
+    "country_en": "India",
+    "image_url": "",
+    "title_ru": "Chapora",
+    "y": 15.6021265,
+    "x": 73.7431869
+  },
+  {
+    "city_id": 227348397,
+    "title_en": "Fatehpur Sikri",
+    "state_en": "Uttar Pradesh",
+    "country_ru": "India",
+    "country_en": "India",
+    "image_url": "",
+    "title_ru": "Fatehpur Sikri",
+    "y": 27.0944996,
+    "x": 77.6678047
+  },
+  {
+    "city_id": 227994986,
+    "title_en": "Jaipur",
+    "state_en": "Rajasthan",
+    "country_ru": "India",
+    "country_en": "India",
+    "image_url": "",
+    "title_ru": "Jaipur",
+    "y": 26.9122175,
+    "x": 75.7858628
+  },
+  {
+    "city_id": 225210585,
+    "title_en": "New Delhi",
+    "state_en": "Delhi",
+    "country_ru": "India",
+    "country_en": "India",
+    "image_url": "",
+    "title_ru": "New Delhi",
+    "y": 28.6136083,
+    "x": 77.2075301
+  },
+  {
+    "city_id": 233227533,
+    "title_en": "Vagator",
+    "state_en": "Goa",
+    "country_ru": "India",
+    "country_en": "India",
+    "image_url": "",
+    "title_ru": "Vagator",
+    "y": 15.5952937,
+    "x": 73.7512996
   },
   {
     "city_id": 152413,
@@ -3953,17 +4030,6 @@
     "x": -87.9211368
   },
   {
-    "city_id": 350814822,
-    "title_en": "Minneapolis",
-    "state_en": "Kansas",
-    "country_ru": "United States",
-    "country_en": "United States",
-    "image_url": "",
-    "title_ru": "Minneapolis",
-    "y": 39.1218732,
-    "x": -97.7069415
-  },
-  {
     "city_id": 298061928,
     "title_en": "Minneapolis",
     "state_en": "Minnesota",
@@ -3973,6 +4039,17 @@
     "title_ru": "Minneapolis",
     "y": 44.9777473,
     "x": -93.2652217
+  },
+  {
+    "city_id": 350814822,
+    "title_en": "Minneapolis",
+    "state_en": "Kansas",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Minneapolis",
+    "y": 39.1218732,
+    "x": -97.7069415
   },
   {
     "city_id": 316346045,
