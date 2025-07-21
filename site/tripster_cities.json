@@ -3257,6 +3257,17 @@
     "x": -73.94958
   },
   {
+    "city_id": 380517310,
+    "title_en": "Buchanan",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Buchanan",
+    "y": 41.8272475,
+    "x": -86.3613255
+  },
+  {
     "city_id": 85228856,
     "title_en": "Buffalo",
     "country_ru": "United States",
@@ -3571,6 +3582,17 @@
     "x": -104.8862782
   },
   {
+    "city_id": 359159007,
+    "title_en": "Gary",
+    "state_en": "Indiana",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Gary",
+    "y": 41.6020335,
+    "x": -87.3373062
+  },
+  {
     "city_id": 2236866,
     "title_en": "Geneva",
     "country_ru": "United States",
@@ -3716,6 +3738,17 @@
     "x": -74.032464
   },
   {
+    "city_id": 399233116,
+    "title_en": "Holland",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Holland",
+    "y": 42.7893844,
+    "x": -86.1091639
+  },
+  {
     "city_id": 305594409,
     "title_en": "Holly Beach",
     "country_ru": "United States",
@@ -3796,6 +3829,17 @@
     "title_ru": "Jonesboro",
     "y": 35.8209116,
     "x": -90.7518601
+  },
+  {
+    "city_id": 404255626,
+    "title_en": "Kalamazoo",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Kalamazoo",
+    "y": 42.2896779,
+    "x": -85.5857853
   },
   {
     "city_id": 322512069,
@@ -4491,6 +4535,17 @@
     "title_ru": "San Francisco",
     "y": 37.7748622,
     "x": -122.4194859
+  },
+  {
+    "city_id": 343148860,
+    "title_en": "Saugatuck",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Saugatuck",
+    "y": 42.6550023,
+    "x": -86.2021655
   },
   {
     "city_id": 297893072,
