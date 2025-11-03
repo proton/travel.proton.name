@@ -3874,6 +3874,17 @@
     "x": -81.78163
   },
   {
+    "city_id": 294510286,
+    "title_en": "La Jolla",
+    "state_en": "California",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "La Jolla",
+    "y": 32.8328497,
+    "x": -117.2713536
+  },
+  {
     "city_id": 361110844,
     "title_en": "Lake Forest",
     "state_en": "Illinois",
@@ -4535,6 +4546,17 @@
     "title_ru": "San Antonio",
     "y": 29.4585002,
     "x": -98.6544594
+  },
+  {
+    "city_id": 294544673,
+    "title_en": "San Diego",
+    "state_en": "California",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "San Diego",
+    "y": 32.7157337,
+    "x": -117.1612655
   },
   {
     "city_id": 311854168,
