@@ -1686,17 +1686,6 @@
     "x": 25.2798
   },
   {
-    "city_id": 283109728,
-    "title_en": "Costa Mujeres",
-    "state_en": "Quintana Roo",
-    "country_ru": "Mexico",
-    "country_en": "Mexico",
-    "image_url": "",
-    "title_ru": "Costa Mujeres",
-    "y": 21.2216696,
-    "x": -86.8026333
-  },
-  {
     "city_id": 298811243,
     "title_en": "Aguascalientes",
     "country_ru": "Mexico",
@@ -1755,6 +1744,17 @@
     "title_ru": "Chichén-Itzá",
     "y": 20.6791102,
     "x": -88.568467
+  },
+  {
+    "city_id": 283109728,
+    "title_en": "Costa Mujeres",
+    "state_en": "Quintana Roo",
+    "country_ru": "Mexico",
+    "country_en": "Mexico",
+    "image_url": "",
+    "title_ru": "Costa Mujeres",
+    "y": 21.2216696,
+    "x": -86.8026333
   },
   {
     "city_id": 143206998,
@@ -3716,6 +3716,17 @@
     "title_ru": "Hammond",
     "y": 41.6424477,
     "x": -87.5488749
+  },
+  {
+    "city_id": 380515104,
+    "title_en": "Harbert",
+    "state_en": "Michigan",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Harbert",
+    "y": 41.8713703,
+    "x": -86.6314473
   },
   {
     "city_id": 339233241,
