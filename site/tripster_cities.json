@@ -1490,6 +1490,28 @@
     "x": 73.81568
   },
   {
+    "city_id": 196496057,
+    "title_en": "Acre",
+    "state_en": "North District",
+    "country_ru": "Israel",
+    "country_en": "Israel",
+    "image_url": "",
+    "title_ru": "Acre",
+    "y": 32.933056,
+    "x": 35.0825177
+  },
+  {
+    "city_id": 401561912,
+    "title_en": "Ashkelon",
+    "state_en": "South District",
+    "country_ru": "Israel",
+    "country_en": "Israel",
+    "image_url": "",
+    "title_ru": "Ashkelon",
+    "y": 31.6687943,
+    "x": 34.574075
+  },
+  {
     "city_id": 85542,
     "title_en": "Eilat",
     "country_ru": "Израиль",
@@ -1498,6 +1520,17 @@
     "title_ru": "Эйлат",
     "y": 29.55805,
     "x": 34.94821
+  },
+  {
+    "city_id": 195198213,
+    "title_en": "Haifa",
+    "state_en": "Haifa District",
+    "country_ru": "Israel",
+    "country_en": "Israel",
+    "image_url": "",
+    "title_ru": "Haifa",
+    "y": 32.7940487,
+    "x": 34.9894224
   },
   {
     "city_id": 85460,
@@ -1986,6 +2019,17 @@
     "title_ru": "Вифлеем",
     "y": 31.70487,
     "x": 35.20376
+  },
+  {
+    "city_id": 42715999,
+    "title_en": "Kalia Beach",
+    "state_en": "Judea and Samaria",
+    "country_ru": "Palestinian Territories",
+    "country_en": "Palestinian Territories",
+    "image_url": "",
+    "title_ru": "Kalia Beach",
+    "y": 31.7610124,
+    "x": 35.5036994
   },
   {
     "city_id": 110952,
