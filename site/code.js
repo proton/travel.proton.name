@@ -6,7 +6,10 @@ const control = {
     this.loadMarkers()
   },
   initMap() {
-    this.map = L.map('map').setView([20.0, 14.0], 3)
+    this.map = L.map('map', {
+      zoomSnap: 0.25,
+      zoomDelta: 0.25
+    }).setView([20.0, 14.0], 3)
 
     const tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
 	attribution: '&copy <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy <a href="https://carto.com/attributions">CARTO</a>',
@@ -28,8 +31,17 @@ const control = {
     fetch('/tripster_cities.json')
     .then(response => response.json())
     .then(cities => {
+      const cityBounds = L.latLngBounds()
+
       for (const city of cities) {
-        this.addCityToMap(city)
+        const position = this.addCityToMap(city)
+        cityBounds.extend(position)
+      }
+
+      if (cityBounds.isValid()) {
+        this.map.fitBounds(cityBounds, {
+          padding: [20, 44]
+        })
       }
     })
     .catch(console.error)
@@ -40,6 +52,8 @@ const control = {
 
     const marker = L.marker(position, { icon: this.mapMarkerIcon }).addTo(this.map)
     marker.bindPopup(title)
+
+    return position
   },
 }
 
