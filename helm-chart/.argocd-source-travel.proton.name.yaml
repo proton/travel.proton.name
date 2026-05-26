@@ -4,5 +4,5 @@ helm:
     value: registry.proton.name/proton/travel.proton.name
     forcestring: true
   - name: image.tag
-    value: "20699314787"
+    value: "21317934386"
     forcestring: true
