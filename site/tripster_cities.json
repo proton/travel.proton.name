@@ -3363,6 +3363,17 @@
     "x": -83.5410234
   },
   {
+    "city_id": 371104377,
+    "title_en": "Cave of the Mounds",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Cave of the Mounds",
+    "y": 43.0170426,
+    "x": -89.8142083
+  },
+  {
     "city_id": 132343,
     "title_en": "Cedar Park",
     "country_ru": "США",
@@ -3510,6 +3521,17 @@
     "title_ru": "Dilley",
     "y": 28.6681128,
     "x": -99.1732307
+  },
+  {
+    "city_id": 372085822,
+    "title_en": "Dodgeville",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Dodgeville",
+    "y": 42.9602941,
+    "x": -90.1302771
   },
   {
     "city_id": 109362797,
@@ -3666,6 +3688,17 @@
     "title_ru": "Goat Island",
     "y": 43.0810384,
     "x": -79.0707769
+  },
+  {
+    "city_id": 416684159,
+    "title_en": "Governor Dodge State Park",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Governor Dodge State Park",
+    "y": 43.0248544,
+    "x": -90.107609
   },
   {
     "city_id": 353642346,
@@ -4214,6 +4247,17 @@
     "title_ru": "Mount Rushmore National Memorial George Washington",
     "y": 43.8788311,
     "x": -103.4590736
+  },
+  {
+    "city_id": 372136991,
+    "title_en": "Mt Horeb",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Mt Horeb",
+    "y": 43.0086144,
+    "x": -89.7386071
   },
   {
     "city_id": 315886669,
