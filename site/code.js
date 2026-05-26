@@ -8,7 +8,7 @@ const control = {
   initMap() {
     this.map = L.map('map', {
       zoomSnap: 0.25,
-      zoomDelta: 0.25
+      zoomDelta: 1
     }).setView([20.0, 14.0], 3)
 
     const tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
