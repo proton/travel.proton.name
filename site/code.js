@@ -7,7 +7,6 @@ const control = {
   },
   initMap() {
     this.map = L.map('map', {
-      zoomSnap: 0.25,
       zoomDelta: 1
     }).setView([20.0, 14.0], 3)
 
@@ -39,12 +38,20 @@ const control = {
       }
 
       if (cityBounds.isValid()) {
-        this.map.fitBounds(cityBounds, {
-          padding: [20, 44]
-        })
+        this.fitMapToCities(cityBounds)
       }
     })
     .catch(console.error)
+  },
+  fitMapToCities(cityBounds) {
+    const originalZoomSnap = this.map.options.zoomSnap
+
+    this.map.options.zoomSnap = 0.25
+    this.map.fitBounds(cityBounds, {
+      animate: false,
+      padding: [20, 44]
+    })
+    this.map.options.zoomSnap = originalZoomSnap
   },
   addCityToMap(city) {
     const position = [city.y, city.x]
