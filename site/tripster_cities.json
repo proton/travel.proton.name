@@ -3127,6 +3127,17 @@
     "x": -102.3398321
   },
   {
+    "city_id": 384313209,
+    "title_en": "Bakersfield",
+    "state_en": "California",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Bakersfield",
+    "y": 35.3734784,
+    "x": -119.0206347
+  },
+  {
     "city_id": 124067,
     "title_en": "Bal Harbour",
     "country_ru": "США",
@@ -3542,6 +3553,17 @@
     "title_ru": "Dublin",
     "y": 32.0848702,
     "x": -98.357243
+  },
+  {
+    "city_id": 408933834,
+    "title_en": "Dunlap",
+    "state_en": "California",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Dunlap",
+    "y": 36.7382718,
+    "x": -119.1211203
   },
   {
     "city_id": 97667068,
@@ -4680,6 +4702,17 @@
     "x": -122.4194859
   },
   {
+    "city_id": 324266980,
+    "title_en": "Santa Monica",
+    "state_en": "California",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Santa Monica",
+    "y": 34.0118685,
+    "x": -118.4917161
+  },
+  {
     "city_id": 343148860,
     "title_en": "Saugatuck",
     "state_en": "Michigan",
@@ -4709,6 +4742,17 @@
     "title_ru": "Searcy",
     "y": 35.242297,
     "x": -91.7433297
+  },
+  {
+    "city_id": 320571058,
+    "title_en": "Sequoia National Park",
+    "state_en": "California",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Sequoia National Park",
+    "y": 36.4863861,
+    "x": -118.5661004
   },
   {
     "city_id": 319144917,
@@ -4866,6 +4910,17 @@
     "title_ru": "Three Oaks",
     "y": 41.7986717,
     "x": -86.6107602
+  },
+  {
+    "city_id": 320622514,
+    "title_en": "Three Rivers",
+    "state_en": "California",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Three Rivers",
+    "y": 36.4388352,
+    "x": -118.9046934
   },
   {
     "city_id": 2926829,
