@@ -3354,6 +3354,17 @@
     "x": -88.2763697
   },
   {
+    "city_id": 412673610,
+    "title_en": "Camp Douglas",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Camp Douglas",
+    "y": 43.9224713,
+    "x": -90.2716838
+  },
+  {
     "city_id": 329839756,
     "title_en": "Cape Girardeau",
     "country_ru": "United States",
@@ -3900,6 +3911,17 @@
     "x": -86.799832
   },
   {
+    "city_id": 372038357,
+    "title_en": "Hustler",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Hustler",
+    "y": 43.8799798,
+    "x": -90.2719612
+  },
+  {
     "city_id": 267963288,
     "title_en": "Indiana Dunes State Park",
     "country_ru": "United States",
@@ -3972,6 +3994,17 @@
     "title_ru": "Kansas City",
     "y": 39.0997361,
     "x": -94.5801402
+  },
+  {
+    "city_id": 415782359,
+    "title_en": "Kendall",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Kendall",
+    "y": 43.7921599,
+    "x": -90.3685955
   },
   {
     "city_id": 355451841,
@@ -4194,6 +4227,17 @@
     "title_ru": "Майами-Бич",
     "y": 25.79065,
     "x": -80.13005
+  },
+  {
+    "city_id": 372999135,
+    "title_en": "Mill Bluff State Park",
+    "state_en": "Wisconsin",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Mill Bluff State Park",
+    "y": 43.9415638,
+    "x": -90.3195686
   },
   {
     "city_id": 197405011,
