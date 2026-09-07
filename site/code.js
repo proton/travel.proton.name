@@ -1,5 +1,17 @@
 const mapElement = document.querySelector('.map')
 
+const tileLayerUrls = {
+  light: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key={apikey}',
+  dark: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key={apikey}'
+}
+
+const tileLayerOptions = {
+  attribution: '&copy <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy <a href="https://carto.com/attributions">CARTO</a>',
+  subdomains: 'abcd',
+  maxZoom: 19,
+  apikey: ''
+}
+
 const control = {
   init() {
     this.initMap()
@@ -10,13 +22,9 @@ const control = {
       zoomDelta: 1
     }).setView([20.0, 14.0], 3)
 
-    const tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-	attribution: '&copy <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy <a href="https://carto.com/attributions">CARTO</a>',
-	subdomains: 'abcd',
-	maxZoom: 19
-    })
-
-    tileLayer.addTo(this.map)
+    this.colorSchemeQuery = window.matchMedia('(prefers-color-scheme: dark)')
+    this.setTileLayer()
+    this.colorSchemeQuery.addEventListener('change', () => this.setTileLayer())
 
     this.mapMarkerIcon = L.icon({
       iconUrl: '/marker.png',
@@ -25,6 +33,17 @@ const control = {
       popupAnchor:  [0, -9] // point from which the popup should open relative to the iconAnchor
   })
 
+  },
+  setTileLayer() {
+    const theme = this.colorSchemeQuery.matches ? 'dark' : 'light'
+    const tileLayerUrl = tileLayerUrls[theme]
+
+    if (this.tileLayer) {
+      this.map.removeLayer(this.tileLayer)
+    }
+
+    this.tileLayer = L.tileLayer(tileLayerUrl, tileLayerOptions)
+    this.tileLayer.addTo(this.map)
   },
   loadMarkers() {
     fetch('/tripster_cities.json')
