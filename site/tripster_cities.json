@@ -2032,6 +2032,105 @@
     "x": 35.5036994
   },
   {
+    "city_id": 3418922,
+    "title_en": "Aguas Calientes 08681",
+    "state_en": "Cusco",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Aguas Calientes 08681",
+    "y": -13.155052,
+    "x": -72.5253668
+  },
+  {
+    "city_id": 3944890,
+    "title_en": "Awana Kancha",
+    "state_en": "Cusco",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Awana Kancha",
+    "y": -13.4663668,
+    "x": -71.8911043
+  },
+  {
+    "city_id": 3875971,
+    "title_en": "Cusco",
+    "state_en": "Cusco",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Cusco",
+    "y": -13.5319349,
+    "x": -71.9676549
+  },
+  {
+    "city_id": 3462514,
+    "title_en": "Historic Sanctuary of Machu Picchu",
+    "state_en": "Cusco",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Historic Sanctuary of Machu Picchu",
+    "y": -13.1631745,
+    "x": -72.5454364
+  },
+  {
+    "city_id": 3664516,
+    "title_en": "Lima",
+    "state_en": "Lima",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Lima",
+    "y": -12.0467028,
+    "x": -77.0432836
+  },
+  {
+    "city_id": 3910393,
+    "title_en": "Parque Arqueol%C3%B3gico Pisac",
+    "state_en": "Cusco",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Parque Arqueol%C3%B3gico Pisac",
+    "y": -13.4075211,
+    "x": -71.8443269
+  },
+  {
+    "city_id": 3425214,
+    "title_en": "Salt Mine of Maras",
+    "state_en": "Cusco",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Salt Mine of Maras",
+    "y": -13.3036284,
+    "x": -72.1543546
+  },
+  {
+    "city_id": 3450779,
+    "title_en": "Urubamba",
+    "state_en": "Cusco",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Urubamba",
+    "y": -13.3057576,
+    "x": -72.1157933
+  },
+  {
+    "city_id": 3473612,
+    "title_en": "Zona Arqueologica Moray",
+    "state_en": "Cusco",
+    "country_ru": "Peru",
+    "country_en": "Peru",
+    "image_url": "",
+    "title_ru": "Zona Arqueologica Moray",
+    "y": -13.3298446,
+    "x": -72.1973471
+  },
+  {
     "city_id": 110952,
     "title_en": "Gorzow Wielkopolski",
     "country_ru": "Польша",
