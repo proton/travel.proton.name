@@ -29,6 +29,7 @@ carto:
     # manually in the cluster or by a secret controller watched by ArgoCD.
     existingSecret: "carto-basemaps"
     secretKey: api-key
+    optional: true
     # Optional fallback for `helm install --set carto.apiKey.value=...`.
     # Do not commit a real key here.
     value: ""

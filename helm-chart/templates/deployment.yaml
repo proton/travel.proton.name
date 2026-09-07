@@ -43,6 +43,7 @@ spec:
                 secretKeyRef:
                   name: {{ include "helm-chart.cartoApiKeySecretName" . | quote }}
                   key: {{ .Values.carto.apiKey.secretKey | quote }}
+                  optional: {{ .Values.carto.apiKey.optional }}
           {{- end }}
           ports:
             - name: http
