@@ -36,6 +36,14 @@ spec:
             {{- toYaml .Values.securityContext | nindent 12 }}
           image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
           imagePullPolicy: {{ .Values.image.pullPolicy }}
+          {{- if or .Values.carto.apiKey.existingSecret .Values.carto.apiKey.value }}
+          env:
+            - name: CARTO_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: {{ include "helm-chart.cartoApiKeySecretName" . | quote }}
+                  key: {{ .Values.carto.apiKey.secretKey | quote }}
+          {{- end }}
           ports:
             - name: http
               containerPort: {{ .Values.service.port }}

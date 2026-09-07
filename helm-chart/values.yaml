@@ -23,6 +23,16 @@ serviceAccount:
 podAnnotations: {}
 podLabels: {}
 
+carto:
+  apiKey:
+    # This Secret is expected to be created outside this chart, for example
+    # manually in the cluster or by a secret controller watched by ArgoCD.
+    existingSecret: "carto-basemaps"
+    secretKey: api-key
+    # Optional fallback for `helm install --set carto.apiKey.value=...`.
+    # Do not commit a real key here.
+    value: ""
+
 podSecurityContext: {}
   # fsGroup: 2000
 

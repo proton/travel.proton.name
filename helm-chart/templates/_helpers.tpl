@@ -60,3 +60,14 @@ Create the name of the service account to use
 {{- default "default" .Values.serviceAccount.name }}
 {{- end }}
 {{- end }}
+
+{{/*
+Create the name of the CARTO API key secret.
+*/}}
+{{- define "helm-chart.cartoApiKeySecretName" -}}
+{{- if .Values.carto.apiKey.existingSecret }}
+{{- .Values.carto.apiKey.existingSecret }}
+{{- else }}
+{{- printf "%s-carto-api-key" (include "helm-chart.fullname" .) | trunc 63 | trimSuffix "-" }}
+{{- end }}
+{{- end }}
