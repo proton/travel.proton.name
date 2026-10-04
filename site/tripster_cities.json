@@ -3738,6 +3738,17 @@
     "x": -80.14338
   },
   {
+    "city_id": 370071524,
+    "title_en": "Fort Sheridan Forest Preserve",
+    "state_en": "Illinois",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Fort Sheridan Forest Preserve",
+    "y": 42.2227767,
+    "x": -87.8109718
+  },
+  {
     "city_id": 272903440,
     "title_en": "Fountain City",
     "state_en": "Wisconsin",
@@ -3956,6 +3967,17 @@
     "title_ru": "Hickory Corners",
     "y": 42.4400111,
     "x": -85.3777397
+  },
+  {
+    "city_id": 372437592,
+    "title_en": "Highwood",
+    "state_en": "Illinois",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Highwood",
+    "y": 42.1997441,
+    "x": -87.8093945
   },
   {
     "city_id": 13487696,
