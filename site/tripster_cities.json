@@ -3527,6 +3527,17 @@
     "x": -100.7646868
   },
   {
+    "city_id": 341728408,
+    "title_en": "Chattanooga",
+    "state_en": "Tennessee",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Chattanooga",
+    "y": 35.0457908,
+    "x": -85.3095301
+  },
+  {
     "city_id": "Chicago - United States",
     "title_en": "Chicago",
     "country_ru": "США",
@@ -3545,6 +3556,17 @@
     "title_ru": "Cleveland",
     "y": 41.505416,
     "x": -81.6939321
+  },
+  {
+    "city_id": 394980859,
+    "title_en": "Corbin",
+    "state_en": "Kentucky",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Corbin",
+    "y": 36.9487015,
+    "x": -84.0970524
   },
   {
     "city_id": 28318953,
@@ -3728,6 +3750,17 @@
     "x": -87.8137624
   },
   {
+    "city_id": 335455525,
+    "title_en": "Fort Boonesborough State Park",
+    "state_en": "Kentucky",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Fort Boonesborough State Park",
+    "y": 37.8972009,
+    "x": -84.2655793
+  },
+  {
     "city_id": 124256,
     "title_en": "Fort Lauderdale",
     "country_ru": "США",
@@ -3811,6 +3844,17 @@
     "title_ru": "Gary",
     "y": 41.6020335,
     "x": -87.3373062
+  },
+  {
+    "city_id": 422248457,
+    "title_en": "Gateway Arch National Park",
+    "state_en": "Missouri",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Gateway Arch National Park",
+    "y": 38.6249018,
+    "x": -90.1860701
   },
   {
     "city_id": 2236866,
@@ -4469,6 +4513,17 @@
     "x": -86.6486197
   },
   {
+    "city_id": 397836886,
+    "title_en": "Murfreesboro",
+    "state_en": "Tennessee",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Murfreesboro",
+    "y": 35.8451398,
+    "x": -86.3953124
+  },
+  {
     "city_id": 160957897,
     "title_en": "Naperville",
     "country_ru": "United States",
@@ -4527,6 +4582,17 @@
     "title_ru": "New Hope",
     "y": 40.3616942,
     "x": -74.9658173
+  },
+  {
+    "city_id": 333907542,
+    "title_en": "New Madrid",
+    "state_en": "Missouri",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "New Madrid",
+    "y": 36.5864376,
+    "x": -89.5280187
   },
   {
     "city_id": 41952872,
@@ -4749,6 +4815,17 @@
     "x": -107.238747
   },
   {
+    "city_id": 428586379,
+    "title_en": "Richmond",
+    "state_en": "Kentucky",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "Richmond",
+    "y": 37.7481277,
+    "x": -84.2959681
+  },
+  {
     "city_id": 43759653,
     "title_en": "River Forest",
     "country_ru": "United States",
@@ -4959,6 +5036,17 @@
     "title_ru": "Smithville",
     "y": 39.4946861,
     "x": -74.4631618
+  },
+  {
+    "city_id": 409624867,
+    "title_en": "South Pittsburg",
+    "state_en": "Tennessee",
+    "country_ru": "United States",
+    "country_en": "United States",
+    "image_url": "",
+    "title_ru": "South Pittsburg",
+    "y": 35.0122864,
+    "x": -85.7045898
   },
   {
     "city_id": 340543537,
