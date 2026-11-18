@@ -35,7 +35,7 @@ spec:
           securityContext:
             {{- toYaml .Values.securityContext | nindent 12 }}
           image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
-          imagePullPolicy: {{ .Values.image.pullPolicy }}
+          imagePullPolicy: {{ if regexMatch "^[0-9]+$" (toString .Values.image.tag) }}IfNotPresent{{ else }}{{ .Values.image.pullPolicy }}{{ end }}
           {{- if or .Values.carto.apiKey.existingSecret .Values.carto.apiKey.value }}
           env:
             - name: CARTO_API_KEY
